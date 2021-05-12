@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- 可用于页面跳转刷新
+		<meta http-equiv="refresh" content="1;url=https://www.baidu.com"> -->
+		<meta charset="UTF-8" />
+		<!-- 设置屏幕宽度为设备宽度,屏幕密度为高频，中频，低频自动缩放，禁止用户手动调整缩放 -->
+		<meta name="viewport"
+		content="width=device-width, target-densitydpi=high-dpi, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta name="Author" content="yqwfish" />
+		<meta name="Keywords" content="福利" />
+		<meta name="Description" content="鱼跃龙门福来报" />
+		<!-- 设置页面不缓存 -->
+		<meta http-equiv=”pragma” content=”no-cache”>
+		<meta http-equiv=”cache-control” content=”no-cache”>
+		<meta http-equiv=”expires” content=”0″>
+		<link rel="icon" href="favicon.svg?t=20210309" type="image/x-icon"/>
+		<link rel="shortcut icon" href="favicon.svg?t=20210309" type="image/vnd.microsoft.icon"/>
+		<title>鱼跃福临门</title>
+		<script language="javascript">
+			var ver = "2021.0330.1754";//版本号参数添加于URL后可便于刷新
+		</script>
+		<!-- 获取时间函数 -->
+		<script type="text/javascript" src="getDate.js?v=2021.0111.1754"></script>
+		<!-- 读取xml函数 -->
+		<script type="text/javascript" src="loadXML.js?v=2021.0129.1754"></script>
+	</head>
+	<body>
+		<!-- 根据年月日判断是否刷新 -->
+		<script language="javascript">
+			function getURLchange(urlSearch, i, iMessage){//修改URL参数 未完
+				var newSearch;
+				if(urlSearch.indexOf(i) == -1){
+				
+				} else if(urlSearch.indexOf(i) != -1 && urlSearch.indexOf(iMessage) != -1)
+			}
+		
+			function firstreload() {
+				td = getCurrentDate(1,null,null);
+				//alert(encodeURIComponent(td+"-是"));
+				alert("?t=2020%2F12%2F11?v=2020.1211.1727".indexOf(encodeURIComponent(td)) == -1);
+				if("?t=2020%2F12%2F11?v=2020.1211.1727".indexOf(encodeURIComponent(td)) == -1){
+					
+				}
+				
+				//if (window.location.search.indexOf(encodeURIComponent(td)) == -1){
+				//	window.location.search = '?t='+encodeURIComponent(td);
+					//window.open(window.location+'?t='+td,'_self');
+				//}
+			}
+			//firstreload();
+		</script>
+
+		<script language="javascript">
+			document.write('<button onclick="location.reload();">支付宝刷新</button><br />');
+			document.write('<a href="index.html?t='+(new Date()).getTime()+'" target="_blank">微信活动v:'+ver+'</a><br />');
+		</script>
+
+		<script type="text/javascript">//显示时间
+			document.write("<p>" + getCurrentDate(1,1,1) + "</p>" + "<br />");
+		</script>
+
+		<!-- 解析xml -->
+		<script type="text/javascript">
+			var xmlurl = "dataZFB.xml?t="+(new Date()).getTime();
+			//测试用链接
+			//xmlurl = "https://yqwfish.gitee.io/welfare/" + xmlurl;
+			//document.write("<p>" + xmlurl + "</p>");
+			loadxml(xmlurl);
+			try{
+				//解析xml
+				var x=xmlDoc.getElementsByTagName("data");
+				for (i=0;i<x.length;i++){
+					document.write("<p>");
+					ii=parseInt(x[i].getElementsByTagName("index")[0].childNodes[0].nodeValue);
+					for (j=1;j<=ii;j++){
+						if (j>1) {
+							document.write("&nbsp;");
+							urlStr="url"+j;
+							titleStr="title"+j;
+						}else{
+							urlStr="url";
+							titleStr="title";
+						}
+						document.write("<a href='" + x[i].getElementsByTagName(urlStr)[0].childNodes[0].nodeValue + "' target='_blank'>");
+						document.write(x[i].getElementsByTagName(titleStr)[0].childNodes[0].nodeValue);
+						document.write("</a>");
+					}
+					document.write("</p>");
+				}
+			}catch(err){
+				//alert("解析xml: "+err);
+				document.write("解析xml: "+err+".请刷新页面");
+			}
+		</script>
+
+		<script language="javascript">
+			document.write('<br /><font color="#909090">——守住底线'+"v:" + ver+'——</font>');
+		</script>
+	</body>
+</html>
