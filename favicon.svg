@@ -16,25 +16,25 @@
 	<g transform="translate(136,126)rotate(330)">
 		<text x="0" y="0" font-size="10" style="fill:rgb(0,0,0);stroke-width:1;stroke:rgb(13,23,23)">y</text>
 	</g>
-	<g transform="translate(200,59)rotate(0)">
-		<text x="0" y="0" font-size="30" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">临</text>
+	<g transform="translate(23,373)rotate(45)">
+		<text x="0" y="0" font-size="70" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">跃</text>
 	</g>
 	<g transform="translate(149,183)rotate(30)">
 		<text x="0" y="0" font-size="10" style="fill:rgb(0,0,0);stroke-width:1;stroke:rgb(23,13,23)">q</text>
 	</g>
-	<g transform="translate(230,369)rotate(180)">
-		<text x="0" y="0" font-size="30" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">门</text>
+	<g transform="translate(360,419)rotate(315)">
+		<text x="0" y="0" font-size="70" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">门</text>
 	</g>
 	<g transform="translate(235,268)rotate(0)">
 		<text x="0" y="0" font-size="10" style="fill:rgb(0,0,0);stroke-width:1;stroke:rgb(23,13,23)">fish</text>
 	</g>
-	<g transform="translate(63,231)rotate(270)">
-		<text x="0" y="0" font-size="30" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">鱼</text>
+	<g transform="translate(55,99)rotate(315)">
+		<text x="0" y="0" font-size="70" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">鱼</text>
 	</g>
 	<g transform="translate(134,266)rotate(0)">
 		<text x="0" y="0" font-size="10" style="fill:rgb(0,0,0);stroke-width:1;stroke:rgb(23,23,13)">w</text>
 	</g>
-	<g transform="translate(367,200)rotate(90)">
-		<text x="0" y="0" font-size="30" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">跃</text>
+	<g transform="translate(333,50)rotate(45)">
+		<text x="0" y="0" font-size="70" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">迎</text>
 	</g>
 </svg>
