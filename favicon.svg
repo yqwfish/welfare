@@ -30,11 +30,11 @@
 	<g><!-- 圆形花边 -->
 		<circle cx="243" cy="50" r="35" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
 		<circle cx="367" cy="50" r="35" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
-		<circle cx="306" cy="76" r="70" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
+		<circle cx="306" cy="77" r="70" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
 		
 		<circle cx="243" cy="562" r="35" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
 		<circle cx="367" cy="562" r="35" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
-		<circle cx="306" cy="537" r="70" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
+		<circle cx="306" cy="535" r="70" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
 		
 		<circle cx="78" cy="306" r="70" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
 		<circle cx="534" cy="306" r="70" fill-opacity="0.0" stroke="rgb(170,30,30)" stroke-width="6"/>
@@ -49,30 +49,30 @@
 		<rect x="0" y="0" width="420" height="420" fill="url(#grad1)" stroke-width="5" stroke="rgb(170,30,30)"/>
 	</g>
 	<g transform="translate(178,386)rotate(0)">
-		<text x="0" y="0" font-size="253" style="fill:rgb(0,0,0);stroke-width:3;stroke:rgb(255,255,0)">福</text>
+		<text x="0" y="0" font-size="253" style="fill:rgb(255,255,0);stroke-width:3;stroke:rgb(11,11,0)">福</text>
 	</g>
-	<g transform="translate(296,153)rotate(0)">
-		<text x="0" y="0" font-size="6" style="fill:rgb(170,30,30);stroke-width:1;stroke:rgb(170,30,30)">fish</text>
+	<g transform="translate(293,155)rotate(0)">
+		<text x="0" y="0" font-size="9" style="fill:rgb(170,30,30)">fish</text>
 	</g>
 	<g transform="translate(236,156)rotate(0)">
-		<text x="0" y="0" font-size="66" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">鱼</text>
+		<text x="0" y="0" font-size="66" style="fill:rgb(233,33,133);stroke-width:2;stroke:rgb(255,255,0)">鱼</text>
 	</g>
-	<g transform="translate(147,308)rotate(0)">
-		<text x="0" y="0" font-size="6" style="fill:rgb(170,30,30);stroke-width:1;stroke:rgb(170,30,30)">q</text>
+	<g transform="translate(145,308)rotate(0)">
+		<text x="0" y="0" font-size="9" style="fill:rgb(170,30,30)">q</text>
 	</g>
 	<g transform="translate(308,156)rotate(0)">
-		<text x="0" y="0" font-size="66" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">跃</text>
+		<text x="0" y="0" font-size="66" style="fill:rgb(233,33,133);stroke-width:2;stroke:rgb(255,255,0)">跃</text>
 	</g>
-	<g transform="translate(462,308)rotate(0)">
-		<text x="0" y="0" font-size="6" style="fill:rgb(170,30,30);stroke-width:1;stroke:rgb(170,30,30)">w</text>
+	<g transform="translate(460,308)rotate(0)">
+		<text x="0" y="0" font-size="9" style="fill:rgb(170,30,30)">w</text>
 	</g>
 	<g transform="translate(278,482)rotate(0)">
-		<text x="0" y="0" font-size="55" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">迎</text>
+		<text x="0" y="0" font-size="55" style="fill:rgb(233,133,33);stroke-width:2;stroke:rgb(255,255,0)">迎</text>
 	</g>
 	<g transform="translate(304,463)rotate(0)">
-		<text x="0" y="0" font-size="6" style="fill:rgb(170,30,30);stroke-width:1;stroke:rgb(170,30,30)">y</text>
+		<text x="0" y="0" font-size="9" style="fill:rgb(170,30,30)">y</text>
 	</g>
 	<g transform="translate(278,547)rotate(0)">
-		<text x="0" y="0" font-size="55" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(111,111,0)">门</text>
+		<text x="0" y="0" font-size="55" style="fill:rgb(233,133,33);stroke-width:2;stroke:rgb(255,255,0)">门</text>
 	</g>
 </svg>

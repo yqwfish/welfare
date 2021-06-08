@@ -6,7 +6,7 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 <DATAS>
 	<data>
 		<index>001</index>
-		<url>https://news.qq.com/FERD/cjRedDown.htm</url>
+		<url>https://gh.prize.qq.com/h5/invPack/index.html</url>
 		<title>[腾讯新闻]-APP开红包(零钱)</title>
 	</data>
 	<data>
