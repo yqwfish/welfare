@@ -78,11 +78,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/zHUHpTHNTaztSRfNBFNVZscyFZU/index.html</url>
-		<title>[京东]-服饰珠宝馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html</url>
 		<title>[京东]-鞋靴馆签到(京豆)</title>
 	</data>
@@ -90,11 +85,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/ZrH7gGAcEkY2gH8wXqyAPoQgk6t/index.html</url>
 		<title>[京东]-箱包馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/KcfFqWvhb5hHtaQkS4SD1UU6RcQ/index.html</url>
-		<title>[京东]-智能生活馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -164,6 +154,13 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/2L2We2Ktqm2PZ7y7QUQ5M7irE9yG/index.html</url>
+		<title>[京东]-超市签到(领京豆)</title>
+		<url2>https://h5.m.jd.com/babelDiy/Zeus/4JkCVz6z5RB4dBL7bZBwtGRiBLLw/index.html</url2>
+		<title2>超市</title2>
+	</data>
+	<data>
+		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/CHdHQhA5AYDXXQN9FLt3QUAPRsB/index.html</url>
 		<title>[京东]-JD电竞签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/bvNYnFjp84WgX5sufkKehdv84zq/index.html</url2>
@@ -175,6 +172,16 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-汽车旅程签到,任务得赛点(换京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
 		<title2>汽车一键签到领京豆(京豆)</title2>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://h5.m.jd.com/babelDiy/Zeus/3NEmCuLGEBksp4vZTYSnBQytTb6Z/index.html</url>
+		<title>[京东]-金榜每日签到(红包,券等)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://h5.m.jd.com/rn/3Z2E1PKDxPh1iDHK6VTCZJjfkkDt/index.html</url>
+		<title>[京东]-限时盲盒 每日签到赚次数拆盲盒(京豆等)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -220,11 +227,9 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title2>京东会员</title2>
 	</data>
 	<data>
-		<index>002</index>
+		<index>001</index>
 		<url>https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html?has_native=0&amp;source=huiyuan</url>
 		<title>[京东]-签到领京豆(京豆)</title>
-		<url2>https://vip.m.jd.com/</url2>
-		<title2>京东VIP</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -254,13 +259,18 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://prodev.m.jd.com/mall/active/2SXTvkddTWoNRh4TdXpydnLPwdyS/index.html</url>
-		<title>[京东]-工业品消消乐</title>
+		<url>https://u.jd.com/z63zwvg</url>
+		<title>[京东]-18年 不负每一份热爱 每天3次(抢红包,券等)</title>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://lzkj-isv.isvjd.com/wxAssemblePage/activity/</url>
 		<title>[京东]-超级互动城</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://wqs.jd.com/sns/202009/22/fansactivecopy/index.html</url>
+		<title>[京东JD.COM]-粉丝专属福利(红包,券等)</title>
 	</data>
 	<data>
 		<index>002</index>
