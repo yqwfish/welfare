@@ -49,10 +49,10 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://jddx.jd.com/m/money/rebate/index.html</url>
-		<title>[京东]-购物返京豆(京豆)</title>
-		<url2>https://m.jd.com/</url2>
-		<title2>京东</title2>
+		<url>https://wx.online-cmcc.cn/jnode1/rotarytable/index?actid=51c710c7e8bd4fb381961e6a71405b0d&amp;shareId=MTU4ODAwMDU3Mzg%3D</url>
+		<title>[中国移动10086]-转转有惊喜(和微币)</title>
+		<url2>http://wx.10086.cn/website/spa/mkactivity/preferential?yx=01m31JH999999999999&amp;yxtitle=%E4%BC%98%E6%83%A0%26%E6%B4%BB%E5%8A%A8&amp;%E6%B4%BB%E5%8A%A8=&amp;secondChannel=WXQ</url2>
+		<title2>优惠集锦</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -233,11 +233,13 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-东东小窝领WO币(抽京豆)</title>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://jdsupermarket.jd.com/game/</url>
+		<index>003</index>
+		<url>https://jdsupermarket.jd.com/loading/</url>
 		<title>[京东]-东东超市签到,提速,收取营业额(蓝币换京豆)</title>
 		<url2>https://jdsupermarket.jd.com/other/shop/task</url2>
 		<title2>店铺任务</title2>
+		<url3>https://jdsupermarket.jd.com/game/</url3>
+		<title3>备份</title3>
 	</data>
 	<data>
 		<index>002</index>
@@ -247,9 +249,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title2>备份</title2>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://lzkj-isv.isvjd.com/wxAssemblePage/activity/</url>
 		<title>[京东]-超级互动城</title>
+		<url2>https://m.jd.com/</url2>
+		<title2>京东</title2>
 	</data>
 	<data>
 		<index>001</index>
