@@ -6,6 +6,30 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 <DATAS>
 	<data>
 		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D68687841%26url%3Dhttps%253A%252F%252Frender.alipay.com%252Fp%252Fc%252F185y59fk1q9s%252Fpages%252Findex%252Findex.html%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[快来步步宝]-收步数换红包(抽现金)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001140664847%26page%3Dpages%252Findex%252Findex%26enbsv%3D0.2.2103291828.43%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[多多有礼-天天领现金]-小程序3次签到,广告任务领小鱼干(抢现金)</title>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3Dpages%252Findex%252Findex%253FshareUid%253D2088032923719253%26enbsv%3D0.2.2103271707.54%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[集集星球]-小程序签到,广告任务赚集分宝(集分宝)</title>
+		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3DpackageA%252FpagesA%252FtaskStars%252FtaskStars%26enbsv%3D0.2.2103271707.54%26chInfo%3Dch_share__chsub_CopyLink</url2>
+		<title2>广告任务集星星(次日晚8点分集分宝)</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3Dpages%252Fsteps_modular%252FstepsIndex%252FstepsIndex%26enbsv%3D0.2.2103271707.54%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[集集星球]-小程序步数,广告任务(换集分宝)</title>
+		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3D%252Fpages%252Ffruit-slots%252Ffruit-slots%26enbsv%3D0.2.2103271707.54%26chInfo%3Dch_share__chsub_CopyLink</url2>
+		<title2>广告任务抽奖(抽集分宝)</title2>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://wx.online-cmcc.cn/website/spa/main/taskCenter/ali?chInfo=ch_share__chsub_CopyLink</url>
 		<title>[中国移动10086]-支付宝每日签到领和微币(赚和微币)</title>
 	</data>
@@ -97,18 +121,8 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/c/17wj89nhswyo?chInfo=jiaofei&amp;__webview_options__=bizScenario%3DJF_YAOFENG.23716.349114.1351094678925082624&amp;chinfo=JF_YAOFENG&amp;trace=true&amp;scm=1.cdp._.1351094678925082624._._._</url>
-		<title>[福利周]-生活福利周(领券)</title>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D77700207%26page%3Dpages%252Fh5InWebview%252Findex%26enbsv%3D0.7.2106071055.31%26chInfo%3Dch_share__chsub_CopyLink</url>
 		<title>[网商银行.超级9:30]-小程序签到,任务领福利金(抽奖,换券等)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2015111300788246%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[蚂蚁财富]-生活号收益周周乐,黄金大作战,大盘晴雨表(得红包等)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -136,11 +150,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2017122701257050%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[支付宝车主服务]-生活号每日签到天天开宝箱(万能红包，券等)</title>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2018061360340012%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
 		<title>[交通出行]-生活号每日签到天天开宝箱(抽出行红包,券等)</title>
 	</data>
@@ -155,30 +164,16 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[爱攒油]-小程序签到,任务(油量换券)</title>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019082366359685%26page%3Dpages%252Fhome%252Findex%26enbsv%3D0.4.2108061541.12%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[花呗金]-小程序任务赚花呗金(还花呗抵扣)</title>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2018091261350219%26page%3D%252Fpages%252Fh5pages%252Fh5pages%253FinviterCode%253DOQbvGmofExn2Gqg7VARfrP9c99XC4f0x%2526targetURI%253Dhttps%253A%252F%252Fmo.m.taobao.com%252Fetao%252Fcheckin-mini%253Ffrom%253Dminietao%2526inviterCode%253DOQbvGmofExn2Gqg7VARfrP9c99XC4f0x%25252COQbvGmofExn2Gqg7VARfrP9c99XC4f0x%25252CdDtgToozTkpt%25252FSek2bri5GjZu1Kx7oeK%26enbsv%3D0.2.2102041054.59%26chInfo%3Dch_share__chsub_CopyLink</url>
 		<title>[一淘特卖-天天领钱]-小程序签到(集分宝等)</title>
 		<url2>https://qr.alipay.com/s7x124788xy845gwdrrnf1a</url2>
 		<title2>备用</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001140664847%26page%3Dpages%252Findex%252Findex%26enbsv%3D0.2.2103291828.43%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[多多有礼-天天领现金]-小程序3次签到,广告任务领小鱼干(抢现金)</title>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3Dpages%252Findex%252Findex%253FshareUid%253D2088032923719253%26enbsv%3D0.2.2103271707.54%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[集集星球]-小程序签到,广告任务赚集分宝(集分宝)</title>
-		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3DpackageA%252FpagesA%252FtaskStars%252FtaskStars%26enbsv%3D0.2.2103271707.54%26chInfo%3Dch_share__chsub_CopyLink</url2>
-		<title2>广告任务集星星(次日晚8点分集分宝)</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3Dpages%252Fsteps_modular%252FstepsIndex%252FstepsIndex%26enbsv%3D0.2.2103271707.54%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[集集星球]-小程序步数,广告任务(换集分宝)</title>
-		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3D%252Fpages%252Ffruit-slots%252Ffruit-slots%26enbsv%3D0.2.2103271707.54%26chInfo%3Dch_share__chsub_CopyLink</url2>
-		<title2>广告任务抽奖(抽集分宝)</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -224,6 +219,16 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021002147643982%26page%3Dpages%252Findex%252Findex%26enbsv%3D0.2.2108191011.17%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[点餐优惠]-小程序月月可领 点餐立减(每月领券一次)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://render.alipay.com/p/c/17wj89nhswyo?chInfo=jiaofei&amp;__webview_options__=bizScenario%3DJF_YAOFENG.23716.349114.1351094678925082624&amp;chinfo=JF_YAOFENG&amp;trace=true&amp;scm=1.cdp._.1351094678925082624._._._</url>
+		<title>[福利周]-生活福利周(每周领券一次)</title>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://render.alipay.com/p/c/18cc2wd998ww?__webview_options__=bizScenario%3DALIPAY_HOME_ROTATION.1202105483504.2202106947898.3202105577104&amp;chinfo=ALIPAY_HOME_ROTATION&amp;trace=true&amp;scm=1.cdp._.3202105577104._._._</url>
 		<title>[公交地铁出行券]-周周来领券 出行更省钱(每周领券一次)</title>
 	</data>
@@ -234,8 +239,18 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
+		<url>https://render.alipay.com/p/c/189mdz7i99y8?chInfo=yaofeng&amp;chinfo=ALIPAY_HOME_ROTATION&amp;trace=true&amp;scm=1.cdp._.1412260339399000064._._._&amp;__webview_options__=bizScenario%3DALIPAY_HOME_ROTATION.26259.391145.1412260339399000064</url>
+		<title>[绑卡送红包]-首次绑卡客户专属福利(送红包)</title>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001196681142%26page%3Dpages%252Flist%252Findex%26enbsv%3D0.2.2103121507.42%26chInfo%3Dch_share__chsub_CopyLink</url>
 		<title>[银行优惠]-小程序银行卡支付立减(领满减券等)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2015111300788246%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<title>[蚂蚁财富]-生活号收益周周乐,黄金大作战,大盘晴雨表(得红包等)</title>
 	</data>
 	<data>
 		<index>002</index>
