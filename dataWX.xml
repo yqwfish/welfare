@@ -83,6 +83,13 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/3bhgbFe5HZcFCjEZf2jzp3umx4ZR/index.html?babelChannel=ttt1#/</url>
+		<title>[京东]-PLUS会员店签到(领京豆)</title>
+		<url2>https://plus.m.jd.com/shop/index?SourceCode=67</url2>
+		<title2>PLUS会员店</title2>
+	</data>
+	<data>
+		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/2Tjm6ay1ZbZ3v7UbriTj6kHy9dn6/index.html</url>
 		<title>[京东]-清洁馆签到(京豆)</title>
 		<url2>https://m.jd.com/portal/app_center.shtml</url2>
@@ -137,13 +144,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/3bhgbFe5HZcFCjEZf2jzp3umx4ZR/index.html?babelChannel=ttt1#/</url>
-		<title>[京东]-PLUS会员店签到(领京豆)</title>
-		<url2>https://plus.m.jd.com/shop/index?SourceCode=67</url2>
-		<title2>PLUS会员店</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/2QUxWHx5BSCNtnBDjtt5gZTq7zdZ/index.html</url>
 		<title>[京东]-花YOUNG签到(京豆)</title>
 		<url2>https://young.m.jd.com/</url2>
@@ -155,6 +155,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-图书签到有礼(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/3u1Q7ZjCfQKrRb52c623WNf3Cjz5/index.html</url2>
 		<title2>图书</title2>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/yhobhPM9LvDKmJxhRbXnYBko2gY/index.html?babelChannel=ttt2</url>
+		<title>[京东]-趣护好店签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
