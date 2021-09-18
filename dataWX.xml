@@ -72,16 +72,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-箱包馆签到(京豆)</title>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/3uvPyw1pwHARGgndatCXddLNUxHw/index.html</url>
-		<title>[京东]-小家电馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/DpSh7ma8JV7QAxSE2gJNro8Q2h9/index.html</url>
-		<title>[京东]-女装馆签到(京豆)</title>
-	</data>
-	<data>
 		<index>003</index>
 		<url>https://pro.m.jd.com/mall/active/3BbAVGQPDd6vTyHYjmAutXrKAos6/index.html</url>
 		<title>[京东]-母婴馆签到(京豆)</title>
@@ -138,6 +128,13 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-图书签到有礼(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/3u1Q7ZjCfQKrRb52c623WNf3Cjz5/index.html</url2>
 		<title2>图书</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/4RBT3H9jmgYg1k2kBnHF8NAHm7m8/index.html</url>
+		<title>[京东]-服饰签到领京豆(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/3qMkfmPMc55RTahmSSpwwuxVrYMG/index.html?babelChannel=ttt4</url2>
+		<title2>服饰</title2>
 	</data>
 	<data>
 		<index>001</index>
