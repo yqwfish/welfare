@@ -62,58 +62,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title2>做任务赢积分</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html</url>
-		<title>[京东]-鞋靴馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/ZrH7gGAcEkY2gH8wXqyAPoQgk6t/index.html</url>
-		<title>[京东]-箱包馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>003</index>
-		<url>https://pro.m.jd.com/mall/active/3BbAVGQPDd6vTyHYjmAutXrKAos6/index.html</url>
-		<title>[京东]-母婴馆签到(京豆)</title>
-		<url2>https://prodev.m.jd.com/mall/active/2oG186jCpbSyRbGJLo28kTiWkHhe/index.html</url2>
-		<title2>母婴馆爱消除</title2>
-		<url3>https://jdjoy.jd.com/dist/taro/index.html/#/taro/pages/jump/activityList</url3>
-		<title3>跳跳活动</title3>
-	</data>
-	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/2Tjm6ay1ZbZ3v7UbriTj6kHy9dn6/index.html</url>
-		<title>[京东]-清洁馆签到(京豆)</title>
+		<url>https://prodev.m.jd.com/mall/active/c46tGzwvXueH7uKSjpXmPQP9Nod/index.html?babelChannel=ttt81&amp;utm_campaign=&amp;utm_source=&amp;utm_term=&amp;utm_medium=</url>
+		<title>[京东]-小家电十一狂欢购签到(京豆)</title>
 		<url2>https://m.jd.com/portal/app_center.shtml</url2>
 		<title2>百宝箱</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/2tZssTgnQsiUqhmg5ooLSHY9XSeN/index.html</url>
-		<title>[京东]-个护签到(京豆)</title>
-		<url2>https://prodev.m.jd.com/mall/active/NJ1kd1PJWhwvhtim73VPsD1HwY3/index.html</url2>
-		<title2>个护</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html</url>
-		<title>[京东]-数码电器签到(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html</url2>
-		<title2>数码电器</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/w2oeK5yLdHqHvwef7SMMy4PL8LF/index.html</url>
-		<title>[京东]-健康签到(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/2PScB9XGoNNPVKmNR7ua35wC5abT/index.html</url2>
-		<title2>健康</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/QPwDgLSops2bcsYqQ57hENGrjgj/index.html</url>
-		<title>[京东]-超市签到(领京豆)</title>
-		<url2>https://h5.m.jd.com/babelDiy/Zeus/4JkCVz6z5RB4dBL7bZBwtGRiBLLw/index.html</url2>
-		<title2>超市</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -149,6 +102,55 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title2>JD Esports</title2>
 	</data>
 	<data>
+		<index>003</index>
+		<url>https://pro.m.jd.com/mall/active/3BbAVGQPDd6vTyHYjmAutXrKAos6/index.html</url>
+		<title>[京东]-母婴馆签到(京豆)</title>
+		<url2>https://prodev.m.jd.com/mall/active/2oG186jCpbSyRbGJLo28kTiWkHhe/index.html</url2>
+		<title2>母婴馆爱消除</title2>
+		<url3>https://jdjoy.jd.com/dist/taro/index.html/#/taro/pages/jump/activityList</url3>
+		<title3>跳跳活动</title3>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/2Tjm6ay1ZbZ3v7UbriTj6kHy9dn6/index.html</url>
+		<title>[京东]-清洁馆签到(京豆)</title>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/2tZssTgnQsiUqhmg5ooLSHY9XSeN/index.html</url>
+		<title>[京东]-个护签到(京豆)</title>
+		<url2>https://prodev.m.jd.com/mall/active/NJ1kd1PJWhwvhtim73VPsD1HwY3/index.html</url2>
+		<title2>个护</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html</url>
+		<title>[京东]-数码电器签到(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html</url2>
+		<title2>数码电器</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/w2oeK5yLdHqHvwef7SMMy4PL8LF/index.html</url>
+		<title>[京东]-健康签到(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/2PScB9XGoNNPVKmNR7ua35wC5abT/index.html</url2>
+		<title2>健康</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/QPwDgLSops2bcsYqQ57hENGrjgj/index.html</url>
+		<title>[京东]-超市签到(领京豆)</title>
+		<url2>https://h5.m.jd.com/babelDiy/Zeus/4JkCVz6z5RB4dBL7bZBwtGRiBLLw/index.html</url2>
+		<title2>超市</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/N9MpLQdxZgiczZaMx2SzmSfZSvF/index.html?babelChannel=ttt1#/</url>
+		<title>[京东]-PLUS会员店签到(京豆)</title>
+		<url2>https://plus.m.jd.com/shop/index?SourceCode=67</url2>
+		<title2>PLUS会员店</title2>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://h5.m.jd.com/babelDiy/Zeus/44bjzCpzH9GpspWeBzYSqBA7jEtP/index.html#/journey</url>
 		<title>[京东]-汽车旅程签到,任务得赛点(换京豆)</title>
@@ -171,8 +173,8 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<index>002</index>
 		<url>https://lottery.m.jd.com/</url>
 		<title>[京喜]-1分京豆 10亿京喜(进页面随机得京豆)</title>
-		<url2>https://jdmall.m.jd.com/</url2>
-		<title2>兑权益</title2>
+		<url2>https://h5platform.jd.com/swm-static/exchange-equity/index.html#/pages/home/index?channel=old</url2>
+		<title2>京豆商城</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -239,11 +241,9 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东金融]-QQ金果摇钱树</title>
 	</data>
 	<data>
-		<index>002</index>
+		<index>001</index>
 		<url>https://u.jr.jd.com/uc-fe-wxgrowing/cloudpig/index/</url>
 		<title>[京东金融]-QQ养猪猪</title>
-		<url2>https://jddx.jd.com/m/jddnew/money/index.html</url2>
-		<title2>赚钱(金贴)</title2>
 	</data>
 	<data>
 		<index>001</index>
