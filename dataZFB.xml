@@ -74,9 +74,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[保障卡]-小程序天天签到赚保障金(兑支付宝消费红包)</title>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D77700257%26page%3Dpages%252FhomeV3%252Findex%26enbsv%3D0.1.2105311711.1%26chInfo%3Dch_share__chsub_CopyLink</url>
+		<index>002</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D2021002146676764%26enbsv%3D0.2.2110081021.39%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3Da1b63db4-f1c1-47d8-8bf2-b2b75af00827</url>
 		<title>[收钱有奖]-小程序每日签到领商家积分(兑线下支付红包等)</title>
+		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D77700257%26page%3Dpages%252FhomeV3%252Findex%26enbsv%3D0.1.2105311711.1%26chInfo%3Dch_share__chsub_CopyLink</url2>
+		<title2>备用</title2>
 	</data>
 	<data>
 		<index>002</index>
