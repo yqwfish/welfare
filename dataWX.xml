@@ -90,11 +90,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title2>服饰</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/yhobhPM9LvDKmJxhRbXnYBko2gY/index.html?babelChannel=ttt2</url>
-		<title>[京东]-趣护好店签到(京豆)</title>
-	</data>
-	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/CHdHQhA5AYDXXQN9FLt3QUAPRsB/index.html</url>
 		<title>[京东]-JD电竞签到(京豆)</title>
@@ -192,11 +187,6 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title>[京东]-种豆得豆(京豆)</title>
 		<url2>https://bean.m.jd.com/plantBean/index</url2>
 		<title2>种豆得豆(京豆)</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://h5.m.jd.com/babelDiy/Zeus/2HFSytEAN99VPmMGZ6V4EYWus1x/index.html</url>
-		<title>[京东]-东东小窝领WO币(抽京豆)</title>
 	</data>
 	<data>
 		<index>003</index>
