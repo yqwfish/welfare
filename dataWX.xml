@@ -1,13 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- 
-微信用xml;
-url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expecting ';'错误
+<!-- 微信用xml
+< 小于号 &lt; 
+> 大于号 &gt; 
+& 与 &amp; 
+' 单引号 &apos; 
+" 双引号 &quot; 
+否则会出现EntityRef: expecting ';'错误
 -->
 <DATAS>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://gh.prize.qq.com/h5/invPack/index.html</url>
-		<title>[腾讯新闻]-APP开红包(零钱)</title>
+		<title>[腾讯新闻]-APP开红包(余额提现)</title>
+		<url2>https://gh.prize.qq.com/show1/_qqcard/invPack/index.html?actname=qqcard2021</url2>
+		<title2>QQAPP开红包(余额提现)</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -117,8 +123,8 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://daojia.jd.com/taroh5/h5dist/#/pages/tabBar/signIn-t/index?trench=jdhyjxz</url>
-		<title>[京东到家]-鲜豆当钱花(鲜豆)</title>
+		<url>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url>
+		<title>[京东]-汽车一键签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -136,7 +142,7 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/3kmVmayf36Kmoyfq9pLuCSYUfU9t/index.html</url>
+		<url>https://pro.m.jd.com/mall/active/2xoBJwC5D1Q3okksMUFHcJQhFq8j/index.html</url>
 		<title>[京东]-抽京豆(京豆)</title>
 	</data>
 	<data>
@@ -147,9 +153,11 @@ url中的条件分割符'&'应该写成'&amp;'否则会出现EntityRef: expectin
 		<title2>京东会员</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html?has_native=0&amp;source=huiyuan</url>
-		<title>[京东]-签到领京豆(京豆)</title>
+		<index>002</index>
+		<url>https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html</url>
+		<title>[京东]-领京豆任务(京豆)</title>
+		<url2>https://bean.m.jd.com/bean/signIndex.action</url2>
+		<title2>签到日历(京豆)</title2>
 	</data>
 	<data>
 		<index>002</index>
