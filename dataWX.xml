@@ -61,11 +61,13 @@
 		<title2>优惠集锦</title2>
 	</data>
 	<data>
-		<index>002</index>
+		<index>003</index>
 		<url>https://zpsy.jd.com/</url>
 		<title>[京东]-拍卖签到(领积分兑换)</title>
 		<url2>https://mipaimai.jd.com/scoreMall.html</url2>
 		<title2>做任务赢积分</title2>
+		<url3>https://m.jd.com/portal/app_center.shtml</url3>
+		<title3>百宝箱</title3>
 	</data>
 	<data>
 		<index>002</index>
@@ -90,10 +92,10 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/DpSh7ma8JV7QAxSE2gJNro8Q2h9/index.html</url>
+		<url>https://prodev.m.jd.com/mall/active/2BspupMr6qenk9JUWpbAnepLHjwy/index.html?babelChannel=ttt1</url>
 		<title>[京东]-女装馆签到(京豆)</title>
-		<url2>https://m.jd.com/portal/app_center.shtml</url2>
-		<title2>百宝箱</title2>
+		<url2>https://pro.m.jd.com/mall/active/DpSh7ma8JV7QAxSE2gJNro8Q2h9/index.html</url2>
+		<title2>女装馆</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -127,11 +129,9 @@
 		<title>[京东]-汽车一键签到(京豆)</title>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://st.jingxi.com/sns/202106/29/signinhb_new/index.html</url>
-		<title>[京喜]-签到领红包(红包)</title>
-		<url2>https://m.jingxi.com/</url2>
-		<title2>京喜</title2>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/2xoBJwC5D1Q3okksMUFHcJQhFq8j/index.html</url>
+		<title>[京东]-抽京豆(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -141,9 +141,11 @@
 		<title2>京豆商城</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/2xoBJwC5D1Q3okksMUFHcJQhFq8j/index.html</url>
-		<title>[京东]-抽京豆(京豆)</title>
+		<index>002</index>
+		<url>https://st.jingxi.com/sns/202106/29/signinhb_new/index.html</url>
+		<title>[京喜]-签到领红包(红包)</title>
+		<url2>https://m.jingxi.com/</url2>
+		<title2>京喜</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -167,13 +169,11 @@
 		<title2>备用</title2>
 	</data>
 	<data>
-		<index>003</index>
-		<url>https://jdsupermarket.jd.com/loading/</url>
-		<title>[京东]-东东超市签到,提速,收取营业额(蓝币换京豆)</title>
-		<url2>https://jdsupermarket.jd.com/other/shop/task</url2>
-		<title2>店铺任务</title2>
-		<url3>https://jdsupermarket.jd.com/game/</url3>
-		<title3>备用</title3>
+		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/2Rkjx8aT5eKaQnUzn8dwcR6jNanj/index.html?babelChannel=ttt3</url>
+		<title>[京东]-生鲜福利社任务抽奖(抽京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/4P9a2T9osR9JvtzHVaYTPvsecRtg/index.html</url2>
+		<title2>京东生鲜</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -181,13 +181,6 @@
 		<title>[京东]-宠汪汪喂狗粮(换京豆)</title>
 		<url2>https://jdjoy.jd.com/pet/index</url2>
 		<title2>备用</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/2Rkjx8aT5eKaQnUzn8dwcR6jNanj/index.html?babelChannel=ttt2</url>
-		<title>[京东]-生鲜福利社任务抽奖(抽京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/4P9a2T9osR9JvtzHVaYTPvsecRtg/index.html</url2>
-		<title2>京东生鲜</title2>
 	</data>
 	<data>
 		<index>002</index>
