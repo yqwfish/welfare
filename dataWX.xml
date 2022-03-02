@@ -30,13 +30,6 @@
 		<title2>签到说明</title2>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://wap.fj.10086.cn/weixin/we_portal/portal/html/activity/2019/feeBountyReceive/index.html</url>
-		<title>[福建移动营业厅]-微信签到领奖励(换话费券)</title>
-		<url2>https://mp.weixin.qq.com/s/YfVgWsxYU_HKPZ4hjVaoGw</url2>
-		<title2>签到说明</title2>
-	</data>
-	<data>
 		<index>001</index>
 		<url>https://wqsh.jd.com/promote/201801/bean/index.html</url>
 		<title>[京东JD.COM]-微信京豆乐园签到(京豆)</title>
@@ -170,9 +163,9 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://plantearth.m.jd.com/plantBean/index</url>
+		<url>https://bean.m.jd.com/plantBean/index</url>
 		<title>[京东]-种豆得豆(京豆)</title>
-		<url2>https://bean.m.jd.com/plantBean/index</url2>
+		<url2>https://plantearth.m.jd.com/plantBean/index</url2>
 		<title2>备用</title2>
 	</data>
 	<data>
