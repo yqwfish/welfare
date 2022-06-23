@@ -43,8 +43,8 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D68687998</url>
-		<title>[摇一摇]-小程序摇红包券，金币换(&lt;B&gt;红包券&lt;/B&gt;)</title>
+		<url>https://render.alipay.com/p/c/lehua/money.html</url>
+		<title>[攒现金]-到店付款攒现金(&lt;B&gt;攒齐提现&lt;/B&gt;)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -53,8 +53,8 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/c/lehua/money.html</url>
-		<title>[攒现金]-到店付款攒现金(&lt;B&gt;攒齐提现&lt;/B&gt;)</title>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D68687998</url>
+		<title>[摇一摇]-小程序摇红包券，金币换(&lt;B&gt;红包券&lt;/B&gt;)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -86,11 +86,6 @@
 		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019072565976618%26page%3Dpages%252Findex%252Findex</url>
 		<title>[天弘基金指数拼图]-小程序指数上涨收集拼图(合成&lt;B&gt;消费红包&lt;/B&gt;等)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D20000936</url>
-		<title>[蚂蚁保]-小程序 我的 工具 保障卡(20保障金抽&lt;B&gt;支付宝消费红包&lt;/B&gt;)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -139,9 +134,11 @@
 		<title2>生活号中国移动10086</title2>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2017122701256110%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
 		<title>[支付宝会员]-生活号 领积分(积分兑红包)</title>
+		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D68687593%26url%3Dhttps%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047902%2Fpages%2Findex%2Findex.html%26chInfo%3Djiangsu_cp_optionmenu_share%26apshareid%3D762e1180-bf9f-4a5c-a82a-13ad37e9013b%26shareBizType%3DztokenV0_bwkFmpxM</url2>
+		<title2>周五省钱日-积分当钱花</title2>
 	</data>
 	<data>
 		<index>001</index>

@@ -98,9 +98,11 @@
 		<title>[京东]-箱包馆签到(京豆)</title>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/3tGNAF6L1zJZ2iLyGG5bAUiny1eD/index.html</url>
-		<title>[京东]-惠寻防疫囤货指南签到(京豆)</title>
+		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/2u1ZhLtcmRWeBPLf8mWqPRWwvXQV/index.html</url>
+		<title>[京东]-汽车签到(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
+		<title2>京东汽车</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -122,11 +124,6 @@
 		<title>[京东]-母婴馆签到(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/2oG186jCpbSyRbGJLo28kTiWkHhe/index.html</url2>
 		<title2>母婴爱消除(京豆)</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url>
-		<title>[京东]-汽车一键签到(京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -189,8 +186,8 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://u.jr.jd.com/uc-fe-growing/jintiepindao?channelLv=scljd&amp;utm_campaign=&amp;utm_source=&amp;utm_term=&amp;utm_medium=</url>
-		<title>[京东金融]-领金贴</title>
+		<url>https://member.jr.jd.com/activity/goldBean/homeV2/?scene=GoldenBeanJr11</url>
+		<title>[京东金融]-黄金豆</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -198,6 +195,11 @@
 		<title>[京东金融]-积分加油站(积分)</title>
 		<url2>https://active.jd.com/forever/signature/index/</url2>
 		<title2>双签奖励天天领</title2>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://u.jr.jd.com/uc-fe-growing/jintiepindao?channelLv=scljd&amp;utm_campaign=&amp;utm_source=&amp;utm_term=&amp;utm_medium=</url>
+		<title>[京东金融]-领金贴</title>
 	</data>
 	<data>
 		<index>001</index>
