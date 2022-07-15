@@ -9,13 +9,16 @@
 -->
 <DATAS>
 	<data>
-		<index>003</index>
-		<url>https://gh.prize.qq.com/h5/invPack/index.html</url>
-		<title>[腾讯新闻]-APP开红包</title>
-		<url2>https://gh.prize.qq.com/show1/_qqcard/invPack/index.html?actname=qqcard2021</url2>
-		<title2>QQ开红包</title2>
-		<url3>https://gh.prize.qq.com/show2/_5z1mdn7qk8va/daysign/share.html</url3>
-		<title3>我的日签卡开红包</title3>
+		<index>002</index>
+		<url>https://wx.10086.cn/qwhdhub/qwhdmark/1021122301</url>
+		<title>[中国移动10086]-签到有礼</title>
+		<url2>http://wx.10086.cn/website/spa/mkactivity/preferential</url2>
+		<title2>优惠集锦</title2>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://mp.weixin.qq.com/s/mKYeRwKzU90pKgVHsnEufA</url>
+		<title>[福建移动营业厅]-碳碳乐园走路兑好礼</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -25,13 +28,6 @@
 		<title2>积分商城(积分兑换)</title2>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://wx.10086.cn/qwhdhub/qwhdmark/1021122301</url>
-		<title>[中国移动10086]-签到有礼</title>
-		<url2>http://wx.10086.cn/website/spa/mkactivity/preferential</url2>
-		<title2>优惠集锦</title2>
-	</data>
-	<data>
 		<index>001</index>
 		<url>https://wqsh.jd.com/promote/201801/bean/index.html</url>
 		<title>[京东JD.COM]-微信京豆乐园签到(京豆)</title>
@@ -39,23 +35,21 @@
 	<data>
 		<index>002</index>
 		<url>https://wqsh.jd.com/fsqd_02/index/index.html</url>
-		<title>[京东JD.COM]-微信粉丝金币签到(兑京豆,红包,券等)</title>
+		<title>[京东JD.COM]-微信粉丝金币签到(兑红包,券等)</title>
 		<url2>https://wqsh.jd.com/sns/201909/27/fansactive/index.html</url2>
 		<title2>粉丝专属福利(红包,券等)</title2>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://wqs.jd.com/sns/pull_fans_revision.html</url>
-		<title>[京东JD.COM]-微信宠粉大转盘(抽券,红包,京豆等)</title>
+		<title>[京东JD.COM]-微信宠粉大转盘(抽券,红包等)</title>
 	</data>
 	<data>
-		<index>003</index>
+		<index>002</index>
 		<url>https://zpsy.jd.com/</url>
 		<title>[京东]-拍卖签到(领积分兑换)</title>
 		<url2>https://mipaimai.jd.com/scoreMall.html</url2>
 		<title2>做任务赢积分</title2>
-		<url3>https://m.jd.com/portal/app_center.shtml</url3>
-		<title3>百宝箱</title3>
 	</data>
 	<data>
 		<index>002</index>
@@ -80,22 +74,17 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/2BspupMr6qenk9JUWpbAnepLHjwy/index.html</url>
-		<title>[京东]-女装馆签到(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/DpSh7ma8JV7QAxSE2gJNro8Q2h9/index.html</url2>
-		<title2>女装馆</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html</url>
 		<title>[京东]-鞋靴馆签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/3WydMN2DnYJDPm5BWJ6b4Lbggd5q/index.html</url2>
 		<title2>签到领京豆</title2>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/ZrH7gGAcEkY2gH8wXqyAPoQgk6t/index.html</url>
 		<title>[京东]-箱包馆签到(京豆)</title>
+		<url2>https://m.jd.com/portal/app_center.shtml</url2>
+		<title2>百宝箱</title2>
 	</data>
 	<data>
 		<index>002</index>

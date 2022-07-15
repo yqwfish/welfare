@@ -10,10 +10,10 @@
 <DATAS>
 	<data>
 		<index>002</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001108603619%26page%3Dpages%252Findex%252Findex</url>
-		<title>[口碑好店]-小程序 口碑农场 口碑金豆</title>
-		<url2>https://pages.koubei.com/alc/bonus/bonus.html?bonusSource=gourmet&amp;laninfo=2201070030017767510&amp;cityId=350100&amp;cityCode=350100&amp;x=119.305097&amp;y=26.056933&amp;longitude=119.305097&amp;latitude=26.056933</url2>
-		<title2>[口碑金豆]-签到开盲盒做任务(金豆换满减口碑红包)</title2>
+		<url>https://pages.koubei.com/alc/bonus/bonus.html?bonusSource=gourmet&amp;laninfo=2201070030017767510&amp;cityId=350100&amp;cityCode=350100&amp;x=119.305097&amp;y=26.056933&amp;longitude=119.305097&amp;latitude=26.056933</url>
+		<title>[口碑金豆]-签到开盲盒做任务(金豆换满减口碑红包)</title>
+		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001108603619%26page%3Dpages%252Findex%252Findex</url2>
+		<title2>小程序 口碑团购</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -42,9 +42,11 @@
 		<title2>生活号天天攒金币</title2>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://render.alipay.com/p/c/lehua/money.html</url>
 		<title>[攒现金]-到店付款攒现金(&lt;B&gt;攒齐提现&lt;/B&gt;)</title>
+		<url>https://render.alipay.com/p/c/180020570000010340/index.html</url>
+		<title>[招行储蓄卡攒红包]-招行储蓄卡支付攒红包</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -62,15 +64,11 @@
 		<title>[理财]-好医保 免费领红包 健康有钱花(&lt;B&gt;0.1元实体店通用红包&lt;/B&gt;等)</title>
 	</data>
 	<data>
-		<index>004</index>
-		<url>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=SERACH&amp;entrance=insplatform_mobilesearch_jkh&amp;chinfo=SEARCH_EXCLUSIVE&amp;trace=true&amp;scm=1.cdp._.1461231070862114816._._._&amp;__webview_options__=bizScenario%3DSEARCH_EXCLUSIVE.26191.16701389.1461231070862114816</url>
+		<index>002</index>
+		<url>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=HB&amp;entrance=public_jkh_caifushenghuo&amp;fr=fortune_life_c2</url>
 		<title>[健康花]-好医保 免费领红包 健康有钱花(&lt;B&gt;随机实体店通用红包&lt;/B&gt;等)</title>
-		<url2>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=HB&amp;entrance=public_jkh_caifushenghuo&amp;fr=fortune_life_c2</url2>
-		<title2>备用(随机实体店通用红包等)</title2>
-		<url3>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?chInfo=ch_share__chsub_CopyLink</url3>
-		<title3>备用(0.01实体店通用红包等)</title3>
-		<url4>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=HBDOUDI&amp;entrance=public_jkh_DH_hbhb&amp;chinfo=ALIPAY_HOME_ROTATION&amp;trace=true&amp;scm=1.cdp._.1282651614611505152._._._&amp;__webview_options__=bizScenario%3DALIPAY_HOME_ROTATION.19234.280500.1282651614611505152</url4>
-		<title4>备用(花呗红包等)</title4>
+		<url2>https://render.alipay.com/p/c/180020270000000199/index.html</url2>
+		<title2>全家保障日 天天领奖励(领健康金，随机实体店通用红包等)</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -113,11 +111,6 @@
 		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2018061360340012%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
 		<title>[交通出行]-生活号天天签到开宝箱(出行红包,券等)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2017122701257050%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[支付宝车主服务]-生活号每日签到开宝箱(加油红包，券等)</title>
 	</data>
 	<data>
 		<index>002</index>
