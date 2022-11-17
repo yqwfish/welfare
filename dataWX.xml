@@ -116,6 +116,13 @@
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://jingcai-h5.jd.com/index.html#/myIntegral?source=kdcjbabel</url>
+		<title>[京东]-快递签到 积分抵运费(积分换京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/1QJHeeapvC1JHyzwwW5p4vo7chm/index.html</url2>
+		<title2>寄快递，找京东小哥</title2>
+	</data>
+	<data>
+		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/2xoBJwC5D1Q3okksMUFHcJQhFq8j/index.html</url>
 		<title>[京东]-抽京豆(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/3WydMN2DnYJDPm5BWJ6b4Lbggd5q/index.html</url2>
@@ -155,11 +162,13 @@
 		<title2>领京豆任务(京豆)</title2>
 	</data>
 	<data>
-		<index>002</index>
+		<index>003</index>
 		<url>https://bean.m.jd.com/plantBean/index</url>
 		<title>[京东]-种豆得豆(京豆)</title>
 		<url2>https://plantearth.m.jd.com/plantBean/index</url2>
 		<title2>备用</title2>
+		<url3>https://h5.m.jd.com/babelDiy/Zeus/fegzUHaydYypyYPKSzadMeb7ty7/index.html#/pages/purchase/home/index</url3>
+		<title3>&lt;B&gt;种豆万人团&lt;/B&gt;</title3>
 	</data>
 	<data>
 		<index>002</index>
@@ -196,11 +205,6 @@
 		<index>001</index>
 		<url>https://u.jr.jd.com/uc-fe-wxgrowing/cloudpig/index/</url>
 		<title>[京东金融]-QQ养猪猪</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://u.jd.com/kMFBu5L</url>
-		<title>[京东]-京东22年11.11主会场</title>
 	</data>
 	<data>
 		<index>001</index>
