@@ -33,16 +33,9 @@
 		<title>[京东JD.COM]-微信京豆乐园签到(京豆)</title>
 	</data>
 	<data>
-		<index>002</index>
+		<index>001</index>
 		<url>https://wqsh.jd.com/fsqd_02/index/index.html</url>
 		<title>[京东JD.COM]-微信粉丝金币签到(兑红包,券等)</title>
-		<url2>https://wqsh.jd.com/sns/201909/27/fansactive/index.html</url2>
-		<title2>粉丝专属福利(红包,券等)</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://wqs.jd.com/sns/pull_fans_revision.html</url>
-		<title>[京东JD.COM]-微信宠粉大转盘(抽券,红包等)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -53,31 +46,10 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/4RBT3H9jmgYg1k2kBnHF8NAHm7m8/index.html</url>
-		<title>[京东]-服饰签到领京豆(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/3qMkfmPMc55RTahmSSpwwuxVrYMG/index.html</url2>
-		<title2>服饰</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/3SC6rw5iBg66qrXPGmZMqFDwcyXi/index.html</url>
-		<title>[京东]-图书签到有礼(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/3u1Q7ZjCfQKrRb52c623WNf3Cjz5/index.html</url2>
-		<title2>图书</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/3S28janPLYmtFxypu37AYAGgivfp/index.html</url>
 		<title>[京东]-拍拍二手签到有礼(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/LHGZv1DrGkva1jNpUkKFuNFN6oo/index.html</url2>
 		<title2>上京东 搜拍拍</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/2QUxWHx5BSCNtnBDjtt5gZTq7zdZ/index.html</url>
-		<title>[京东]-花YOUNG签到(京豆)</title>
-		<url2>https://young.m.jd.com/</url2>
-		<title2>校园频道</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -95,31 +67,55 @@
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/4RBT3H9jmgYg1k2kBnHF8NAHm7m8/index.html</url>
+		<title>[京东]-服饰签到领京豆(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/3qMkfmPMc55RTahmSSpwwuxVrYMG/index.html</url2>
+		<title2>服饰</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/3SC6rw5iBg66qrXPGmZMqFDwcyXi/index.html</url>
+		<title>[京东]-图书签到有礼(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/3u1Q7ZjCfQKrRb52c623WNf3Cjz5/index.html</url2>
+		<title2>图书</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/2QUxWHx5BSCNtnBDjtt5gZTq7zdZ/index.html</url>
+		<title>[京东]-花YOUNG签到(京豆)</title>
+		<url2>https://young.m.jd.com/</url2>
+		<title2>校园频道</title2>
+	</data>
+	<data>
+		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html</url>
 		<title>[京东]-数码电器签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html</url2>
 		<title2>数码电器</title2>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/2tZssTgnQsiUqhmg5ooLSHY9XSeN/index.html</url>
-		<title>[京东]-个护签到(京豆)</title>
-		<url2>https://prodev.m.jd.com/mall/active/NJ1kd1PJWhwvhtim73VPsD1HwY3/index.html</url2>
-		<title2>个护</title2>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/2Tjm6ay1ZbZ3v7UbriTj6kHy9dn6/index.html</url>
+		<title>[京东]-清洁馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/2KMRByvMg6Z2nwDmQ1StFTtKJc81/index.html</url>
+		<title>[京东]-医药馆签到(京豆)</title>
+		<url2>https://prodev.m.jd.com/mall/active/2VHitkF6cFidt2V7Asbg13JKG7Pw/index.html</url2>
+		<title2>&lt;B&gt;来医药馆抽888京豆&lt;/B&gt;</title2>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://prodev.m.jd.com/mall/active/3BbAVGQPDd6vTyHYjmAutXrKAos6/index.html</url>
 		<title>[京东]-母婴馆签到(京豆)</title>
-		<url2>https://prodev.m.jd.com/mall/active/2oG186jCpbSyRbGJLo28kTiWkHhe/index.html</url2>
-		<title2>母婴爱消除(京豆)</title2>
 	</data>
 	<data>
 		<index>002</index>
 		<url>https://jingcai-h5.jd.com/index.html#/myIntegral?source=kdcjbabel</url>
-		<title>[京东]-快递签到 积分抵运费(积分换京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/1QJHeeapvC1JHyzwwW5p4vo7chm/index.html</url2>
-		<title2>寄快递，找京东小哥</title2>
+		<title>[京东]-快递签到 积分抵运费(100积分换京豆)</title>
+		<url2>https://h5platform.jd.com/swm-static/exchange-equity/index.html#/pages/home/index</url2>
+		<title2>&lt;B&gt;京豆商城&lt;/B&gt;</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -129,18 +125,9 @@
 		<title2>签到领京豆</title2>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://lottery.m.jd.com/</url>
-		<title>[京喜]-1分京豆 10亿京喜(进页面随机得京豆)</title>
-		<url2>https://h5platform.jd.com/swm-static/exchange-equity/index.html#/pages/home/index</url2>
-		<title2>&lt;B&gt;京豆商城&lt;/B&gt;</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://st.jingxi.com/sns/202106/29/signinhb_new/index.html</url>
-		<title>[京喜]-签到领红包(红包)</title>
-		<url2>https://m.jingxi.com/</url2>
-		<title2>京喜</title2>
+		<index>001</index>
+		<url>https://prodev.m.jd.com/mall/active/3DB2SDgt6pCLdCRAkVPSgr1Dz2it/index.html</url>
+		<title>[京东]-每日打卡领(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -155,19 +142,12 @@
 		<title>[京东]-东东农场 天天红包(京豆,券等)</title>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://bean.m.jd.com/bean/signIndex.action</url>
-		<title>[京东]-签到日历(京豆)</title>
-		<url2>https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html</url2>
-		<title2>领京豆任务(京豆)</title2>
-	</data>
-	<data>
 		<index>003</index>
 		<url>https://bean.m.jd.com/plantBean/index</url>
 		<title>[京东]-种豆得豆(京豆)</title>
 		<url2>https://plantearth.m.jd.com/plantBean/index</url2>
 		<title2>备用</title2>
-		<url3>https://h5.m.jd.com/babelDiy/Zeus/fegzUHaydYypyYPKSzadMeb7ty7/index.html#/pages/purchase/home/index</url3>
+		<url3>https://h5.m.jd.com/babelDiy/Zeus/fegzUHaydYypyYPKSzadMeb7ty7/index.html?interactid=3#/pages/purchase/home/index</url3>
 		<title3>&lt;B&gt;种豆万人团&lt;/B&gt;</title3>
 	</data>
 	<data>
@@ -178,6 +158,23 @@
 		<title2>备用</title2>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://u.jr.jd.com/uc-fe-wxgrowing/18-quan-yi-day/index.html?channel=230&amp;channelLv=fqzh230</url>
+		<title>[京东金融]-摇号赢免单(积分兑京豆,红包等)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://ins.jr.jd.com/activity/beans/index?activityId=20221111bean&amp;sourceType=bxpd&amp;resourcePlace=tongzhi&amp;bxFromId=jdsc&amp;bxplace=shuidirenwu%3Fshowhead%3Dno</url>
+		<title>[京东保险]-买保险在京东(做任务领京豆)</title>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://st.jingxi.com/sns/202106/29/signinhb_new/index.html</url>
+		<title>[京喜]-签到领红包(红包)</title>
+		<url2>https://m.jingxi.com/</url2>
+		<title2>京喜</title2>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://lzkj-isv.isvjd.com/wxAssemblePage/activity/</url>
 		<title>[京东]-超级互动城</title>
@@ -185,16 +182,9 @@
 		<title2>京东</title2>
 	</data>
 	<data>
-		<index>002</index>
+		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/eEcYM32eezJB7YX4SBihziJCiGV/index.html</url>
 		<title>[京东金融]-积分加油站(积分)</title>
-		<url2>https://active.jd.com/forever/signature/index/</url2>
-		<title2>双签奖励天天领</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://u.jr.jd.com/uc-fe-growing/jintiepindao?channelLv=scljd&amp;utm_campaign=&amp;utm_source=&amp;utm_term=&amp;utm_medium=</url>
-		<title>[京东金融]-领金贴</title>
 	</data>
 	<data>
 		<index>001</index>
