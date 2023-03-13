@@ -16,11 +16,6 @@
 		<title2>优惠集锦</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://mp.weixin.qq.com/s/mKYeRwKzU90pKgVHsnEufA</url>
-		<title>[福建移动营业厅]-碳碳乐园走路兑好礼</title>
-	</data>
-	<data>
 		<index>002</index>
 		<url>https://wx.cctv.com/user/wap/sign.html?mpid=109</url>
 		<title>[中国舆论场]-微信每日签到(积分)</title>
@@ -88,15 +83,31 @@
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/41vM6C4VdzmymkBK7WB5enMVFFig/index.html</url>
+		<title>[京东]-箱包馆签到(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/ZrH7gGAcEkY2gH8wXqyAPoQgk6t/index.html</url2>
+		<title2>箱包馆</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/mn56EvrbpDFT1QbwFD1FNuxqYpV/index.html?babelChannel=ttt1</url>
+		<title>[京东]-鞋靴馆签到(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html</url2>
+		<title2>鞋靴馆</title2>
+	</data>
+	<data>
+		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/2KMRByvMg6Z2nwDmQ1StFTtKJc81/index.html</url>
 		<title>[京东]-医药馆签到(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/2VHitkF6cFidt2V7Asbg13JKG7Pw/index.html</url2>
 		<title2>&lt;B&gt;来医药馆抽888京豆&lt;/B&gt;</title2>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/3BbAVGQPDd6vTyHYjmAutXrKAos6/index.html</url>
 		<title>[京东]-母婴馆签到(京豆)</title>
+		<url2>https://bean.m.jd.com/beanDetail/index.action?source=clean</url2>
+		<title2>我的京豆</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -113,9 +124,11 @@
 		<title2>&lt;B&gt;京豆商城&lt;/B&gt;</title2>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/3DB2SDgt6pCLdCRAkVPSgr1Dz2it/index.html</url>
 		<title>[京东]-每日打卡领(京豆)</title>
+		<url2>https://prodev.m.jd.com/mall/active/2hzwsumTVEKSo7AnbF81Pyw3Z15z/index.html</url2>
+		<title2>做任务，抽奖赢京豆</title2>
 	</data>
 	<data>
 		<index>002</index>
