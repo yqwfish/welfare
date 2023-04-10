@@ -60,6 +60,11 @@
 	</data>
 	<data>
 		<index>001</index>
+		<url>https://ds.alipay.com/?from=mobilecodec&amp;scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FsaId%3D10000007%26clientVersion%3D3.7.0.0718%26qrcode%3Dhttps%253A%252F%252Fqr.alipay.com%252Fclx03568nedgt70hplj8m4f%253F_s%253Dweb-other</url>
+		<title>[宝呗青年]-花呗消费,存余额宝收体验金(换余额宝收益奖励等)</title>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://render.alipay.com/p/c/17wj89nhswyo?chInfo=jiaofei&amp;__webview_options__=bizScenario%3DJF_YAOFENG.23716.349114.1351094678925082624&amp;chinfo=JF_YAOFENG&amp;trace=true&amp;scm=1.cdp._.1351094678925082624._._._</url>
 		<title>[福利周]-生活福利周(每周领券一次)</title>
 	</data>
@@ -78,12 +83,7 @@
 	<data>
 		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D68687742%26etOperationType%3Dcom.alipay.promofrontcenter.coupon.router.decide%26etIntercept%3DYES%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[消费券]-连续签到3天或7天得消费券(消费券等)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://ds.alipay.com/?from=mobilecodec&amp;scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FsaId%3D10000007%26clientVersion%3D3.7.0.0718%26qrcode%3Dhttps%253A%252F%252Fqr.alipay.com%252Fclx03568nedgt70hplj8m4f%253F_s%253Dweb-other</url>
-		<title>[宝呗青年]-花呗消费,存储收体验金(换余额宝收益奖励等)</title>
+		<title>[消费券]-签到有礼攒满1元提消费券</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -185,13 +185,18 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021002137695520%26page%3D%252Fpages%252Findex%252Findex%253Fyaoqingid%253D2088032923719253</url>
-		<title>[超级直播间-赚点是点]-小程序广告任务(0.1元余额提现)</title>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D68687998%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3Df210ac20-82c5-49c4-a128-995e27df84c7%26shareBizType%3DztokenV0_ceCDbkeo</url>
+		<title>[摇一摇]-小程序抽红包(&lt;B&gt;到店红包券&lt;/B&gt;等)</title>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D2019041963946950</url>
 		<title>[理财直播]-小程序看直播有奖励(黄金票)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021002137695520%26page%3D%252Fpages%252Findex%252Findex%253Fyaoqingid%253D2088032923719253</url>
+		<title>[超级直播间-赚点是点]-小程序广告任务(0.1元余额提现)</title>
 	</data>
 	<data>
 		<index>001</index>
