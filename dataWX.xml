@@ -69,6 +69,13 @@
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/3fJZ27dqd7iAffkm2QRwc1eZwbK6/index.html</url>
+		<title>[京东]-惠玩福利站签到(京豆)</title>
+		<url2>https://prodev.m.jd.com/mall/active/2C93apXVu1KQKQdHbWuYV4tE73WQ/index.html</url2>
+		<title2>出行玩乐</title2>
+	</data>
+	<data>
+		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/2u1ZhLtcmRWeBPLf8mWqPRWwvXQV/index.html</url>
 		<title>[京东]-汽车签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
@@ -82,18 +89,23 @@
 		<title2>看病买药</title2>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://prodev.m.jd.com/mall/active/3xj74a5WenijFqCMJJJ2d2qRdobK/index.html</url>
+		<title>[京东]-工业品签到(京豆)</title>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/4RYbb8NtVAegmT35SuM2N3KKYLWt/index.html</url>
+		<title>[京东]-&lt;B&gt;五金城签到(京豆)&lt;/B&gt;</title>
+		<url2>https://bean.m.jd.com/beanDetail/index.action?source=clean</url2>
+		<title2>我的京豆</title2>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/2KMRByvMg6Z2nwDmQ1StFTtKJc81/index.html</url>
 		<title>[京东]-医药馆签到(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/2VHitkF6cFidt2V7Asbg13JKG7Pw/index.html</url2>
 		<title2>&lt;B&gt;来医药馆抽888京豆&lt;/B&gt;</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/4RYbb8NtVAegmT35SuM2N3KKYLWt/index.html</url>
-		<title>[京东]-五金城签到(京豆)</title>
-		<url2>https://bean.m.jd.com/beanDetail/index.action?source=clean</url2>
-		<title2>我的京豆</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -112,7 +124,7 @@
 	<data>
 		<index>003</index>
 		<url>https://mipaimai.jd.com/scoreMall.html</url>
-		<title>[京东]-积分任务</title>
+		<title>[京东]-拍卖积分任务</title>
 		<url2>https://zpsy.jd.com/</url2>
 		<title2>拍卖</title2>
 		<url3>https://pro.m.jd.com/mall/active/3DB2SDgt6pCLdCRAkVPSgr1Dz2it/index.html</url3>
@@ -120,10 +132,10 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://ylc.m.jd.com/ylc/turntable/101</url>
-		<title>[京东]-每日幸运大转盘(京豆)</title>
-		<url2>https://ylc.m.jd.com/?ext=1101</url2>
-		<title2>京东游戏大厅</title2>
+		<url>https://ylc.m.jd.com/?ext=1101</url>
+		<title>[京东]-游戏大厅(京豆)</title>
+		<url2>https://ylc.m.jd.com/ylc/turntable/101</url2>
+		<title2>每日幸运大转盘</title2>
 	</data>
 	<data>
 		<index>001</index>
