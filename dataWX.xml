@@ -102,6 +102,20 @@
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/49daRba2Z5UNyTK15Zf4uRCPXKed/index.html</url>
+		<title>[京东]-内衣签到(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/4PgpL1xqPSW1sVXCJ3xopDbB1f69/index.html</url2>
+		<title2>京东内衣</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/3Af6mZNcf5m795T8dtDVfDwWVNhJ/index.html</url>
+		<title>[京东]-童装童鞋馆签到(京豆)</title>
+		<url2>https://h5.m.jd.com/pb/014076750/48qPXkwvatBBCAhdeTXG5WQam4yq/index.html</url2>
+		<title2>京东新百货</title2>
+	</data>
+	<data>
+		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/2KMRByvMg6Z2nwDmQ1StFTtKJc81/index.html</url>
 		<title>[京东]-医药馆签到(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/2VHitkF6cFidt2V7Asbg13JKG7Pw/index.html</url2>
@@ -113,6 +127,11 @@
 		<title>[京东]-清洁馆签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/3WydMN2DnYJDPm5BWJ6b4Lbggd5q/index.html</url2>
 		<title2>签到领京豆</title2>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/NJ1kd1PJWhwvhtim73VPsD1HwY3/index.html</url>
+		<title>[京东]-个护签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -141,6 +160,11 @@
 		<index>001</index>
 		<url>https://prodev.m.jd.com/mall/active/2hzwsumTVEKSo7AnbF81Pyw3Z15z/index.html</url>
 		<title>[京东]-惠寻做任务,抽奖赢京豆(券等)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://lzdz-isv.isvjd.com/m/688693/dzbddbeb43bfff40179190eb6a8e9b/?adsource=YYG</url>
+		<title>[京东]-天天签到领京豆(礼享金换京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -215,6 +239,16 @@
 		<index>001</index>
 		<url>https://u.jr.jd.com/uc-fe-wxgrowing/cloudpig/index/</url>
 		<title>[京东金融]-QQ养猪猪</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://member.jr.jd.com/activity/sign/v5/indexV2.html</url>
+		<title>[京东金融]-每日签到(领金贴)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://mse.jd.com/business/fortune-day/home/</url>
+		<title>[京东金融]-15理财日—稳健季</title>
 	</data>
 	<data>
 		<index>001</index>
