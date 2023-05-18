@@ -33,6 +33,16 @@
 		<title>[京东JD.COM]-微信粉丝金币签到(兑红包,券等)</title>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://bigaccount-fanssiginin-pro.pf.jd.com</url>
+		<title>[京东JD.COM]-粉丝专享福利(兑红包,京豆,券等)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://yaom.jd.com/jdhhome/</url>
+		<title>[京东]-看病买药 这里签到 领京豆</title>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/3S28janPLYmtFxypu37AYAGgivfp/index.html</url>
 		<title>[京东]-拍拍二手签到有礼(京豆)</title>
@@ -66,6 +76,13 @@
 		<title>[京东]-鞋靴馆签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html</url2>
 		<title2>鞋靴馆</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/3fJZ27dqd7iAffkm2QRwc1eZwbK6/index.html</url>
+		<title>[京东]-惠玩福利站签到(京豆)</title>
+		<url2>https://prodev.m.jd.com/mall/active/2C93apXVu1KQKQdHbWuYV4tE73WQ/index.html</url2>
+		<title2>出行玩乐</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -143,11 +160,9 @@
 		<title2>拍卖</title2>
 	</data>
 	<data>
-		<index>002</index>
+		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/3DB2SDgt6pCLdCRAkVPSgr1Dz2it/index.html</url>
 		<title>[京东]-&lt;B&gt;每日打卡领京豆&lt;/B&gt;</title>
-		<url2>https://prodev.m.jd.com/mall/active/2C93apXVu1KQKQdHbWuYV4tE73WQ/index.html</url2>
-		<title2>出行玩乐</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -232,6 +247,11 @@
 		<index>001</index>
 		<url>https://u.jr.jd.com/uc-fe-wxgrowing/cloudpig/index/</url>
 		<title>[京东金融]-QQ养猪猪</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://mse.jd.com/business/fortune-day/home/</url>
+		<title>[京东金融]-15理财日—稳健季</title>
 	</data>
 	<data>
 		<index>001</index>
