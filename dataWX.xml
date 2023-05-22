@@ -39,7 +39,7 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://yaom.jd.com/jdhhome/</url>
+		<url>https://yaom.jd.com/jdhhome/?type=welfare</url>
 		<title>[京东]-看病买药 这里签到 领京豆</title>
 	</data>
 	<data>
@@ -90,13 +90,6 @@
 		<title>[京东]-汽车签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
 		<title2>&lt;B&gt;京东汽车&lt;/B&gt;</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/2iYqp4g8K7Xkh4ueDfUL1v2ZbX6R/index.html</url>
-		<title>[京东]-健康签到(京豆)</title>
-		<url2>https://yaom.jd.com/jdhhome/</url2>
-		<title2>看病买药</title2>
 	</data>
 	<data>
 		<index>001</index>
