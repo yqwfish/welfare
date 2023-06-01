@@ -28,14 +28,11 @@
 		<title>[京东JD.COM]-微信京豆乐园签到(京豆)</title>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://wqsh.jd.com/fsqd_02/index/index.html</url>
-		<title>[京东JD.COM]-微信粉丝金币签到(兑红包,券等)</title>
-	</data>
-	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://bigaccount-fanssiginin-pro.pf.jd.com</url>
 		<title>[京东JD.COM]-粉丝专享福利(兑红包,京豆,券等)</title>
+		<url2>https://wqsh.jd.com/fsqd_02/index/index.html</url2>
+		<title2>备用</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -65,13 +62,6 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/41vM6C4VdzmymkBK7WB5enMVFFig/index.html</url>
-		<title>[京东]-箱包馆签到(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/ZrH7gGAcEkY2gH8wXqyAPoQgk6t/index.html</url2>
-		<title2>箱包馆</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/mn56EvrbpDFT1QbwFD1FNuxqYpV/index.html?babelChannel=ttt1</url>
 		<title>[京东]-鞋靴馆签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html</url2>
@@ -85,13 +75,6 @@
 		<title2>出行玩乐</title2>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/2u1ZhLtcmRWeBPLf8mWqPRWwvXQV/index.html</url>
-		<title>[京东]-汽车签到(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
-		<title2>&lt;B&gt;京东汽车&lt;/B&gt;</title2>
-	</data>
-	<data>
 		<index>001</index>
 		<url>https://prodev.m.jd.com/mall/active/3xj74a5WenijFqCMJJJ2d2qRdobK/index.html</url>
 		<title>[京东]-工业品签到(京豆)</title>
@@ -102,15 +85,6 @@
 		<title>[京东]-&lt;B&gt;五金城签到(京豆)&lt;/B&gt;</title>
 		<url2>https://bean.m.jd.com/beanDetail/index.action?source=clean</url2>
 		<title2>我的京豆</title2>
-	</data>
-	<data>
-		<index>003</index>
-		<url>https://pro.m.jd.com/mall/active/49daRba2Z5UNyTK15Zf4uRCPXKed/index.html</url>
-		<title>[京东]-内衣签到(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/4PgpL1xqPSW1sVXCJ3xopDbB1f69/index.html</url2>
-		<title2>京东内衣</title2>
-		<url3>https://h5.m.jd.com/pb/014076750/48qPXkwvatBBCAhdeTXG5WQam4yq/index.html</url3>
-		<title3>京东新百货</title3>
 	</data>
 	<data>
 		<index>002</index>
@@ -127,16 +101,18 @@
 		<title2>签到领京豆</title2>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/NJ1kd1PJWhwvhtim73VPsD1HwY3/index.html</url>
 		<title>[京东]-个护签到(京豆)</title>
+		<url2>https://h5.m.jd.com/pb/014076750/48qPXkwvatBBCAhdeTXG5WQam4yq/index.html</url2>
+		<title2>京东新百货</title2>
 	</data>
 	<data>
 		<index>002</index>
 		<url>https://jingcai-h5.jd.com/index.html#/myIntegral?source=kdcjbabel</url>
 		<title>[京东]-快递签到 积分抵运费(100积分换京豆)</title>
 		<url2>https://h5platform.jd.com/swm-static/exchange-equity/index.html#/pages/home/index</url2>
-		<title2>&lt;B&gt;京豆商城&lt;/B&gt;</title2>
+		<title2>&lt;B&gt;京豆商城(每周)&lt;/B&gt;</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -153,6 +129,13 @@
 		<title2>拍卖</title2>
 	</data>
 	<data>
+		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/2u1ZhLtcmRWeBPLf8mWqPRWwvXQV/index.html</url>
+		<title>[京东]-汽车福利中心</title>
+		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
+		<title2>&lt;B&gt;京东汽车&lt;/B&gt;</title2>
+	</data>
+	<data>
 		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/3DB2SDgt6pCLdCRAkVPSgr1Dz2it/index.html</url>
 		<title>[京东]-&lt;B&gt;每日打卡领京豆&lt;/B&gt;</title>
@@ -162,7 +145,7 @@
 		<url>https://spa.jd.com/home</url>
 		<title>[京东]-摇京豆,浏览活动(京豆,券等)</title>
 		<url2>https://huiyuan.m.jd.com/</url2>
-		<title2>&lt;B&gt;京东会员&lt;/B&gt;</title2>
+		<title2>&lt;B&gt;京东会员(下单后)&lt;/B&gt;</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -208,11 +191,6 @@
 		<index>001</index>
 		<url>https://u.jr.jd.com/uc-fe-wxgrowing/18-quan-yi-day/index.html?channel=230&amp;channelLv=fqzh230</url>
 		<title>[京东金融]-摇号赢免单(积分兑京豆,红包等)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://ins.jr.jd.com/activity/beans/index?activityId=20221111bean&amp;sourceType=bxpd&amp;resourcePlace=tongzhi&amp;bxFromId=jdsc&amp;bxplace=shuidirenwu%3Fshowhead%3Dno</url>
-		<title>[京东保险]-买保险在京东(做任务领京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
