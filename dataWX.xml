@@ -76,15 +76,10 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/4PgpL1xqPSW1sVXCJ3xopDbB1f69/index.html?babelChannel=ttt18</url>
-		<title>[京东]-内衣签到(京豆)</title>
-		<url2>https://h5.m.jd.com/pb/014076750/48qPXkwvatBBCAhdeTXG5WQam4yq/index.html</url2>
-		<title2>京东新百货</title2>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/32EphPL81Mb6FD4qLCTtYmd31YXr/index.html</url>
 		<title>[京东]-男装签到(京豆)</title>
+		<url2>https://h5.m.jd.com/pb/014076750/48qPXkwvatBBCAhdeTXG5WQam4yq/index.html</url2>
+		<title2>京东新百货</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -104,6 +99,11 @@
 		<title>[京东]-医药馆签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/3WydMN2DnYJDPm5BWJ6b4Lbggd5q/index.html</url2>
 		<title2>签到领京豆</title2>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/3jS2mdZDANz3AG7JhduvSZMZHUZC/index.html</url>
+		<title>[京东]-药急送签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -143,7 +143,7 @@
 		<url>https://spa.jd.com/home</url>
 		<title>[京东]-摇京豆,浏览活动(京豆,券等)</title>
 		<url2>https://huiyuan.m.jd.com/</url2>
-		<title2>&lt;B&gt;京东会员(每周)&lt;/B&gt;</title2>
+		<title2>&lt;B&gt;京东会员(周)&lt;/B&gt;</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -179,11 +179,6 @@
 		<title>[京东]-超级互动城</title>
 		<url2>https://m.jd.com/</url2>
 		<title2>京东</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://lzdz-isv.isvjd.com/m/688693/dzbddbeb43bfff40179190eb6a8e9b/?adsource=YYG</url>
-		<title>[京东]-天天签到领京豆(礼享金换京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
