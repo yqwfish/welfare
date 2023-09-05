@@ -23,11 +23,6 @@
 		<title2>积分商城(积分兑换)</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://wqsh.jd.com/promote/201801/bean/index.html</url>
-		<title>[京东JD.COM]-微信京豆乐园签到(京豆)</title>
-	</data>
-	<data>
 		<index>002</index>
 		<url>https://bigaccount-fanssiginin-pro.pf.jd.com</url>
 		<title>[京东JD.COM]-粉丝专享福利(兑红包,京豆,券等)</title>
@@ -73,6 +68,11 @@
 		<title>[京东]-惠玩福利站签到(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/2C93apXVu1KQKQdHbWuYV4tE73WQ/index.html</url2>
 		<title2>出行玩乐</title2>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/3Af6mZNcf5m795T8dtDVfDwWVNhJ/index.html</url>
+		<title>[京东]-童装馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
