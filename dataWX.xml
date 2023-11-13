@@ -57,22 +57,10 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/3xj74a5WenijFqCMJJJ2d2qRdobK/index.html</url>
-		<title>[京东]-工业品签到(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/4RYbb8NtVAegmT35SuM2N3KKYLWt/index.html</url2>
-		<title2>京东五金城</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/3fJZ27dqd7iAffkm2QRwc1eZwbK6/index.html</url>
 		<title>[京东]-惠玩福利站签到(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/2C93apXVu1KQKQdHbWuYV4tE73WQ/index.html</url2>
 		<title2>出行玩乐</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/3Af6mZNcf5m795T8dtDVfDwWVNhJ/index.html</url>
-		<title>[京东]-童装馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -83,8 +71,8 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html</url>
-		<title>[京东]-鞋靴馆签到(京豆)</title>
+		<url>https://pro.m.jd.com/mall/active/22DpAdd48C4fU3cBRkeYSM87WhWV/index.html</url>
+		<title>[京东]-珠宝馆签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -95,15 +83,17 @@
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/3xj74a5WenijFqCMJJJ2d2qRdobK/index.html</url>
+		<title>[京东]-工业品签到(京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/4RYbb8NtVAegmT35SuM2N3KKYLWt/index.html</url2>
+		<title2>京东五金城</title2>
+	</data>
+	<data>
+		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/2KMRByvMg6Z2nwDmQ1StFTtKJc81/index.html</url>
 		<title>[京东]-医药馆签到(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/3WydMN2DnYJDPm5BWJ6b4Lbggd5q/index.html</url2>
 		<title2>签到领京豆</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/3jS2mdZDANz3AG7JhduvSZMZHUZC/index.html</url>
-		<title>[京东]-药急送签到(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -193,6 +183,11 @@
 		<title>[京东金融]-每日签到(领金贴)</title>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://content.jr.jd.com/video/aggregate/index.html</url>
+		<title>[京东金融]-直播广场(金贴)</title>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://iu.jr.jd.com/insurance/channel/interest?showTab=1</url>
 		<title>[京东保险]-天天领权益 签到 做任务(京豆)</title>
@@ -216,13 +211,18 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://content.jr.jd.com/signInActivity/index.html?utm_term=copyurl&amp;channelCode=CH202212081</url>
-		<title>[京东金融]-7天学理财</title>
+		<url>https://eco.jr.jd.com/quanjiatong</url>
+		<title>[京东金融]-摇红包(领现金)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://mse.jd.com/business/fortune-day/home/</url>
-		<title>[京东金融]-15理财日—稳健季</title>
+		<url>https://eco.jr.jd.com/wxmp-fission/task</url>
+		<title>[京东金融]-签到每日领好礼 30天签到礼包(现金、积分等)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://prodev.m.jd.com/jdjr/active/3jCMmaPa4sSkNW6ewQTvSPaH2w7H/index.html</url>
+		<title>[京东金融]-真福利够靠谱</title>
 	</data>
 	<data>
 		<index>001</index>

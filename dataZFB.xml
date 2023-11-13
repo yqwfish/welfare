@@ -104,13 +104,8 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019072565976618%26page%3Dpages%252Findex%252Findex</url>
-		<title>[天弘基金指数拼图]-小程序指数上涨收集拼图(合成&lt;B&gt;消费红包&lt;/B&gt;等)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001140664847%26page%3Dpages%252Findex%252Findex</url>
-		<title>[多多有礼-天天领现金]-小程序广告任务,鱼塘养鱼(小鱼干换零钱)</title>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2060090000285454%26url%3Dhttps%253A%252F%252Frender.alipay.com%252Fp%252Fyuyan%252F180020380000000247%252Findex.html%253FcaprMode%253Dsync%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3Dc92c239c-5a91-4ee9-99fa-0ddeff415804%26shareBizType%3DztokenV0_iUByVFOI</url>
+		<title>[玩赚支付宝]-每天签到领现金(每30天周期清零 满5元提现)</title>
 	</data>
 	<data>
 		<index>003</index>
@@ -122,16 +117,31 @@
 		<title3>步数换金币,广告任务(1000金币提现换集分宝)</title3>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019112669453030%26page%3Dpages%252Findex%252Findex</url>
-		<title>[支付宝消费金]-小程序签到,逛一逛得消费金(换&lt;B&gt;支付宝通用红包&lt;/B&gt;等)</title>
-		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2021001134673994%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url2>
-		<title2>生活号天天攒金币</title2>
+		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001140664847%26page%3Dpages%252Findex%252Findex</url>
+		<title>[多多有礼-天天领现金]-小程序广告任务,鱼塘养鱼(小鱼干换零钱)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019072565976618%26page%3Dpages%252Findex%252Findex</url>
+		<title>[天弘基金指数拼图]-小程序指数上涨收集拼图(合成&lt;B&gt;消费红包&lt;/B&gt;等)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003172682207%26page%3Dpages%252Findex%252Findex%253FchInfo%253Dself_share_app%26enbsv%3D0.2.2311092229.15%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26shareTimestamp%3D1699887178503%26apshareid%3D14343df7-bf23-4541-8dbc-f752ba36882c%26shareBizType%3DH5App_XCX</url>
+		<title>[读书听书]-小程序赚金币 福利任务(兑&lt;B&gt;红包&lt;/B&gt;)</title>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003125685383%26url%3Dhttps%253A%252F%252Frender.alipay.com%252Fp%252Fyuyan%252F180020010001206617%252Findex.html%253FcaprMode%253Dsync%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3D8d23c1ef-af26-446a-b01e-e5dc37984b9d%26shareBizType%3DztokenV0_TozUQABM</url>
 		<title>[游戏中心]-小程序去赚豆做任务(&lt;B&gt;兑红包&lt;/B&gt;)</title>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019112669453030%26page%3Dpages%252Findex%252Findex</url>
+		<title>[支付宝消费金]-小程序签到,逛一逛得消费金(换&lt;B&gt;支付宝通用红包&lt;/B&gt;等)</title>
+		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2021001134673994%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url2>
+		<title2>生活号天天攒金币</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -145,20 +155,13 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2060090000285454%26url%3Dhttps%253A%252F%252Frender.alipay.com%252Fp%252Fyuyan%252F180020380000000247%252Findex.html%253FcaprMode%253Dsync%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3Dc92c239c-5a91-4ee9-99fa-0ddeff415804%26shareBizType%3DztokenV0_iUByVFOI</url>
-		<title>[玩赚支付宝]-每天签到领现金(每30天周期清零 满5元提现)</title>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021002181621240%26page%3Dpages%252Findex%252Findex%26enbsv%3D0.2.2305221547.7%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3D54cd6857-4f51-4864-9330-324afe9143d1%26shareBizType%3DH5App_XCX</url>
+		<title>[多懂一点]-小程序打卡领学分(&lt;B&gt;支付红包&lt;/B&gt;等)</title>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021002114615149%26page%3Dpages%252Findex%252Findex%26enbsv%3D0.2.2301131657.26%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3De4566d29-5f73-4fd1-8f58-26805ae53613%26shareBizType%3DH5App_XCX</url>
 		<title>[赚一点]-小程序轻松逛 赚闲钱(&lt;B&gt;无门槛红包&lt;/B&gt;等)</title>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019111369116874%26page%3Dpages%252FstreamFlow%252FstreamFlow%253FsceneId%253D2088032923719253%2526minichinfo%253Dmini-share%2526_um_ssrc%253DwIb2IxQI3LlO3ckrJaXkXbE0fqiedK6vi3C16vBdySA%253D</url>
-		<title>[超级幸运派]-小程序红包鸭签到做任务(金币兑&lt;B&gt;缴费红包&lt;/B&gt;等)</title>
-		<url2>ttps://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2021001185671248%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url2>
-		<title2>生活福利邦</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -167,13 +170,13 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021002181621240%26page%3Dpages%252Findex%252Findex%26enbsv%3D0.2.2305221547.7%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3D54cd6857-4f51-4864-9330-324afe9143d1%26shareBizType%3DH5App_XCX</url>
-		<title>[多懂一点]-小程序打卡领学分(&lt;B&gt;支付红包&lt;/B&gt;等)</title>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D2019041963946950</url>
+		<title>[理财直播]-小程序看直播有奖励(黄金票)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D2019041963946950</url>
-		<title>[理财直播]-小程序看直播有奖励(黄金票)</title>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2060090000298207%26url%3Dhttps%253A%252F%252Frender.alipay.com%252Fp%252Fyuyan%252F180020010001254638%252Findex.html%253FcaprMode%253Dsync%26enbsv%3D0.2.2309251104.14%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26shareTimestamp%3D1699887828127%26apshareid%3Da699a981-1fc9-4796-8ea8-ecf625989c65%26shareBizType%3DH5App_XCX</url>
+		<title>[支付有礼]-小程序签到(领红包)</title>
 	</data>
 	<data>
 		<index>002</index>
