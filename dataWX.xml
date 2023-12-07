@@ -30,13 +30,6 @@
 		<title2>备用</title2>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://ylc.m.jd.com/?ext=1101</url>
-		<title>[京东]-游戏大厅(京豆)</title>
-		<url2>https://ylc.m.jd.com/ylc/turntable/101</url2>
-		<title2>每日幸运大转盘</title2>
-	</data>
-	<data>
 		<index>001</index>
 		<url>https://yaom.jd.com/jdhhome/?type=welfare</url>
 		<title>[京东]-看病买药 这里签到 领京豆</title>
@@ -57,6 +50,13 @@
 	</data>
 	<data>
 		<index>002</index>
+		<url>https://prodev.m.jd.com/mall/active/2u1ZhLtcmRWeBPLf8mWqPRWwvXQV/index.html</url>
+		<title>[京东]-汽车福利中心</title>
+		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
+		<title2>&lt;B&gt;京东汽车&lt;/B&gt;</title2>
+	</data>
+	<data>
+		<index>002</index>
 		<url>https://prodev.m.jd.com/mall/active/3fJZ27dqd7iAffkm2QRwc1eZwbK6/index.html</url>
 		<title>[京东]-惠玩福利站签到(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/2C93apXVu1KQKQdHbWuYV4tE73WQ/index.html</url2>
@@ -68,18 +68,6 @@
 		<title>[京东]-男装签到(京豆)</title>
 		<url2>https://h5.m.jd.com/pb/014076750/48qPXkwvatBBCAhdeTXG5WQam4yq/index.html</url2>
 		<title2>京东新百货</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/22DpAdd48C4fU3cBRkeYSM87WhWV/index.html</url>
-		<title>[京东]-珠宝馆签到(京豆)</title>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://prodev.m.jd.com/mall/active/2u1ZhLtcmRWeBPLf8mWqPRWwvXQV/index.html</url>
-		<title>[京东]-汽车福利中心</title>
-		<url2>https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html</url2>
-		<title2>&lt;B&gt;京东汽车&lt;/B&gt;</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -141,13 +129,11 @@
 		<title>[京东]-东东农场 天天红包(京豆,券等)</title>
 	</data>
 	<data>
-		<index>003</index>
+		<index>002</index>
 		<url>https://bean.m.jd.com/plantBean/index</url>
 		<title>[京东]-种豆得豆(京豆)</title>
 		<url2>https://plantearth.m.jd.com/plantBean/index</url2>
 		<title2>备用</title2>
-		<url3>https://h5.m.jd.com/babelDiy/Zeus/fegzUHaydYypyYPKSzadMeb7ty7/index.html?interactid=3#/pages/purchase/home/index</url3>
-		<title3>&lt;B&gt;种豆万人团&lt;/B&gt;</title3>
 	</data>
 	<data>
 		<index>002</index>
@@ -172,23 +158,6 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://u.jr.jd.com/uc-fe-wxgrowing/18-quan-yi-day/index.html?channel=230&amp;channelLv=fqzh230</url>
-		<title>[京东金融]-摇号赢免单(积分兑京豆,红包等)</title>
-		<url2>https://member.jr.jd.com/member/integral-mall/mission/?channel=qd</url2>
-		<title2>&lt;B&gt;做任务领积分&lt;/B&gt;</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://member.jr.jd.com/activity/sign/v5/indexV2.html</url>
-		<title>[京东金融]-每日签到(领金贴)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://content.jr.jd.com/video/aggregate/index.html</url>
-		<title>[京东金融]-直播广场(金贴)</title>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://iu.jr.jd.com/insurance/channel/interest?showTab=1</url>
 		<title>[京东保险]-天天领权益 签到 做任务(京豆)</title>
 		<url2>https://prodev.m.jd.com/mall/active/3i11dVqMyKjD3RdMkj5DsLy4aCur/index.html</url2>
@@ -202,27 +171,39 @@
 	<data>
 		<index>001</index>
 		<url>https://member.jr.jd.com/activity/goldBean/homeV2/?scene=GoldenBeanJr11</url>
-		<title>[京东金融]-黄金豆</title>
+		<title>[京东金融]-黄金豆(超过100粒提取黄金)</title>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://u.jr.jd.com/uc-fe-wxgrowing/cloudpig/index/</url>
-		<title>[京东金融]-QQ养猪猪</title>
+		<title>[京东金融]-QQ养猪猪(立减券)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://content.jr.jd.com/video/aggregate/index.html</url>
+		<title>[京东金融]-直播广场(金贴)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://member.jr.jd.com/activity/sign/v5/indexV2.html</url>
+		<title>[京东金融]-每日签到(领金贴)</title>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://eco.jr.jd.com/quanjiatong</url>
-		<title>[京东金融]-摇红包(领现金)</title>
+		<title>[京东金融]-摇红包兑话费(提现红包)</title>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://u.jr.jd.com/uc-fe-wxgrowing/18-quan-yi-day/index.html?channel=230&amp;channelLv=fqzh230</url>
+		<title>[京东金融]-摇号赢免单(积分兑小金库红包,还款券等)</title>
+		<url2>https://member.jr.jd.com/member/integral-mall/mission/?channel=qd</url2>
+		<title2>&lt;B&gt;做任务领积分&lt;/B&gt;</title2>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://eco.jr.jd.com/wxmp-fission/task</url>
-		<title>[京东金融]-签到每日领好礼 30天签到礼包(现金、积分等)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://prodev.m.jd.com/jdjr/active/3jCMmaPa4sSkNW6ewQTvSPaH2w7H/index.html</url>
-		<title>[京东金融]-真福利够靠谱</title>
+		<title>[京东金融]-签到每日领好礼 30天签到礼包(现金红包、积分等)</title>
 	</data>
 	<data>
 		<index>001</index>
