@@ -17,22 +17,10 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://wx.cctv.com/user/wap/sign.html?mpid=109</url>
-		<title>[中国舆论场]-微信每日签到(积分)</title>
-		<url2>https://wx.cctv.com/user/wap/prize.html?mpid=109</url2>
-		<title2>积分商城(积分兑换)</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://bigaccount-fanssiginin-pro.pf.jd.com</url>
 		<title>[京东JD.COM]-粉丝专享福利(兑红包,京豆,券等)</title>
 		<url2>https://wqsh.jd.com/fsqd_02/index/index.html</url2>
 		<title2>备用</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://yaom.jd.com/jdhhome/?type=welfare</url>
-		<title>[京东]-看病买药 这里签到 领京豆</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -63,6 +51,11 @@
 		<title2>出行玩乐</title2>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html</url>
+		<title>[京东]-鞋靴馆签到(京豆)</title>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/32EphPL81Mb6FD4qLCTtYmd31YXr/index.html</url>
 		<title>[京东]-男装签到(京豆)</title>
@@ -84,6 +77,11 @@
 		<title2>签到领京豆</title2>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/22DpAdd48C4fU3cBRkeYSM87WhWV/index.html</url>
+		<title>[京东]-珠宝馆签到(京豆)</title>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/2TY2j1yJ9T2QKiQekTpHgvv68HiD/index.html</url>
 		<title>[京东]-宠物签到(京豆)</title>
@@ -98,6 +96,11 @@
 		<title2>我的京豆</title2>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://yaom.jd.com/jdhhome/?type=welfare</url>
+		<title>[京东]-买药领福利 签到得健康能量(兑换1元包邮券)</title>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://jingcai-h5.jd.com/index.html#/myIntegral?source=kdcjbabel</url>
 		<title>[京东]-快递签到 积分抵运费(100积分换京豆)</title>
@@ -105,16 +108,16 @@
 		<title2>&lt;B&gt;京豆商城&lt;/B&gt;</title2>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://mipaimai.jd.com/scoreMall.html</url>
-		<title>[京东]-拍卖积分任务</title>
-		<url2>https://zpsy.jd.com/</url2>
-		<title2>拍卖</title2>
-	</data>
-	<data>
 		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/3DB2SDgt6pCLdCRAkVPSgr1Dz2it/index.html</url>
 		<title>[京东]-&lt;B&gt;每日打卡领京豆&lt;/B&gt;</title>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/2VwggVJAAVexmLRaeSxMb63drWX6/index.html</url>
+		<title>[京东]-做任务 抽888京豆</title>
+		<url2>https://pro.m.jd.com/mall/active/3jS2mdZDANz3AG7JhduvSZMZHUZC/index.html</url2>
+		<title2>买药小时达</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -196,7 +199,7 @@
 	<data>
 		<index>002</index>
 		<url>https://u.jr.jd.com/uc-fe-wxgrowing/18-quan-yi-day/index.html?channel=230&amp;channelLv=fqzh230</url>
-		<title>[京东金融]-摇号赢免单(积分兑小金库红包,还款券等)</title>
+		<title>[京东金融]-每天摇号得大奖(积分兑小金库红包,还款券等)</title>
 		<url2>https://member.jr.jd.com/member/integral-mall/mission/?channel=qd</url2>
 		<title2>&lt;B&gt;做任务领积分&lt;/B&gt;</title2>
 	</data>
@@ -204,6 +207,11 @@
 		<index>001</index>
 		<url>https://eco.jr.jd.com/wxmp-fission/task</url>
 		<title>[京东金融]-签到每日领好礼 30天签到礼包(现金红包、积分等)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://show.jd.com/m/dPM1/</url>
+		<title>[京东金融]-12月15理财日 答题赢现金得学分(累计学分领京豆)</title>
 	</data>
 	<data>
 		<index>001</index>
