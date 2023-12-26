@@ -51,11 +51,6 @@
 		<title2>出行玩乐</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html</url>
-		<title>[京东]-鞋靴馆签到(京豆)</title>
-	</data>
-	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/32EphPL81Mb6FD4qLCTtYmd31YXr/index.html</url>
 		<title>[京东]-男装签到(京豆)</title>
@@ -115,11 +110,9 @@
 		<title>[京东]-&lt;B&gt;每日打卡领京豆&lt;/B&gt;</title>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://spa.jd.com/home</url>
-		<title>[京东]-摇京豆,浏览活动(京豆,券等)</title>
-		<url2>https://huiyuan.m.jd.com/</url2>
-		<title2>&lt;B&gt;京东会员(周)&lt;/B&gt;</title2>
+		<index>001</index>
+		<url>https://huiyuan.m.jd.com/</url>
+		<title>[京东]-&lt;B&gt;会员精选任务(京豆)&lt;/B&gt;</title>
 	</data>
 	<data>
 		<index>001</index>
@@ -132,6 +125,11 @@
 		<title>[京东]-种豆得豆(京豆)</title>
 		<url2>https://plantearth.m.jd.com/plantBean/index</url2>
 		<title2>备用</title2>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://spa.jd.com/home</url>
+		<title>[京东]-摇京豆,浏览活动(京豆,券等)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -168,22 +166,12 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://member.jr.jd.com/activity/goldBean/homeV2/?scene=GoldenBeanJr11</url>
-		<title>[京东金融]-黄金豆(超过100粒提取黄金)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://u.jr.jd.com/uc-fe-wxgrowing/cloudpig/index/</url>
-		<title>[京东金融]-QQ养猪猪(立减券)</title>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://content.jr.jd.com/video/aggregate/index.html</url>
 		<title>[京东金融]-直播广场(金贴)</title>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://member.jr.jd.com/activity/sign/v5/indexV2.html</url>
+		<url>https://member.jr.jd.com/activity/new-sign-in/home/</url>
 		<title>[京东金融]-每日签到(领金贴)</title>
 	</data>
 	<data>
