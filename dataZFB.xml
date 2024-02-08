@@ -10,31 +10,17 @@
 <DATAS>
 	<data>
 		<index>002</index>
-		<url>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=WEALTHTAB&amp;entrance=wealth_lanmu_jkh&amp;chInfo=ch_share__chsub_CopyLink&amp;apshareid=cc6ee0e9-7bea-486c-8881-3a2a81ad0fba</url>
-		<title>[理财]-天天领福利 健康花 领红包享保障(&lt;B&gt;0.1元实体店通用红包&lt;/B&gt;等)</title>
-		<url2>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=HB&amp;entrance=public_jkh_caifushenghuo&amp;fr=fortune_life_c2</url2>
-		<title2>[财富生活]-我是福利达人 天天领红包，天天享健康(&lt;B&gt;0.1元实体店通用红包&lt;/B&gt;等)</title2>
-	</data>
-	<data>
-		<index>003</index>
-		<url>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=SERACH&amp;entrance=insplatform_mobilesearch_jkh&amp;chinfo=SEARCH_EXCLUSIVE&amp;trace=true&amp;scm=1.cdp._.1461231070862114816._._._&amp;__webview_options__=bizScenario%3DSEARCH_EXCLUSIVE.26191.16701389.1461231070862114816</url>
-		<title>[全家保障日]-天天领红包(&lt;B&gt;随机实体店通用红包&lt;/B&gt;等)</title>
-		<url2>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?chInfo=ch_share__chsub_CopyLink</url2>
-		<title2>备用(0.01实体店通用红包等)</title2>
-		<url3>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=HBDOUDI&amp;entrance=public_jkh_DH_hbhb&amp;chinfo=ALIPAY_HOME_ROTATION&amp;trace=true&amp;scm=1.cdp._.1282651614611505152._._._&amp;__webview_options__=bizScenario%3DALIPAY_HOME_ROTATION.19234.280500.1282651614611505152</url3>
-		<title3>备用(花呗红包等)</title3>
+		<url>https://render.alipay.com/p/c/180020270000000199/index.html</url>
+		<title>[全家保障日] 天天领奖励(领健康金，随机实体店通用红包等)</title>
+		<url2>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html</url2>
+		<title2>[健康花]-享健康生活 天天领红包(&lt;B&gt;实体店通用红包&lt;/B&gt;等)</title2>
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://render.alipay.com/p/c/180020270000000199/index.html</url>
-		<title>[全家保障日] 天天领奖励(领健康金，随机实体店通用红包等)</title>
-		<url2>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=search&amp;entrance=insplatform_mobilesearch_jkh&amp;chInfo=ch_share__chsub_CopyLink&amp;fxzjshareChinfo=ch_share__chsub_CopyLink&amp;apshareid=828a74c0-8d96-4701-8028-f53a68814f31&amp;shareBizType=mrfx</url2>
-		<title2>[健康花]-免费领红包 健康有钱花(&lt;B&gt;0.01元实体店通用红包&lt;/B&gt;等)</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/h5/inshealth/www/offline-pay.html?source=JKH_JIAOFEI&amp;entrance=public_jkh_jiaofeibanner</url>
-		<title>[生活缴费]-优惠权益 天天省钱缴 逛一逛领健康保障(&lt;B&gt;生活缴费红包&lt;/B&gt;等)</title>
+		<url>https://market.m.taobao.com/app/alisports-fe/handi/pages/home/index.html</url>
+		<title>[集汗滴 每日分]-做任务集汗滴(次日提现)</title>
+		<url2>https://huodong.taobao.com/wow/lion/browseRewards/c82389ce66906ef1?wh_ttid=phone&amp;activityCode=BROWSE_FIND_REWARDd4830b9718054be5&amp;chn=alipay.xiaofei.renw&amp;spm=a21bke.alipay_xiaofei_renw.0.0&amp;chInfo=ch_ttcj&amp;startMultApp=YES&amp;appClearTop=false</url2>
+		<title2>浏览找现金 点击领奖励(&lt;B&gt;可提现&lt;/B&gt;)</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -76,13 +62,6 @@
 		<title>[支付宝会员]-生活号 领积分(积分兑红包)</title>
 		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D68687593%26url%3Dhttps%3A%2F%2Frender.alipay.com%2Fp%2Fc%2F180020180000047902%2Fpages%2Findex%2Findex.html%26chInfo%3Djiangsu_cp_optionmenu_share%26apshareid%3D762e1180-bf9f-4a5c-a82a-13ad37e9013b%26shareBizType%3DztokenV0_bwkFmpxM</url2>
 		<title2>周五省钱日-积分当钱花</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://market.m.taobao.com/app/alisports-fe/handi/pages/home/index.html</url>
-		<title>[集汗滴 每日分]-做任务集汗滴(次日提现)</title>
-		<url2>https://huodong.taobao.com/wow/tyact/act/play-square-alipay?spm=a2oeb.14014095.share.alpc&amp;from=share</url2>
-		<title2>做任务集汗滴分红包(次日提现)</title2>
 	</data>
 	<data>
 		<index>004</index>
