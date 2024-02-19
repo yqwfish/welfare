@@ -69,9 +69,11 @@
 		<title2>京东新百货</title2>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/3DB2SDgt6pCLdCRAkVPSgr1Dz2it/index.html</url>
 		<title>[京东]-幸运大转盘(京豆)</title>
+		<url2>https://m.jd.com/</url2>
+		<title2>京东</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -84,8 +86,8 @@
 		<index>002</index>
 		<url>https://huiyuan.m.jd.com/</url>
 		<title>[京东]-会员精选任务(京豆)</title>
-		<url2>https://m.jd.com/</url2>
-		<title2>京东</title2>
+		<url2>https://vipgrowth.m.jd.com/?from=content#/home</url2>
+		<title2>&lt;B&gt;我的京享值&lt;/B&gt;</title2>
 	</data>
 	<data>
 		<index>001</index>
