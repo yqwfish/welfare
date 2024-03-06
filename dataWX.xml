@@ -63,10 +63,20 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/2t6TdAdmj5uhc72Y1k9qthBV3EHf/index.html</url>
-		<title>[京东]-服饰美妆福利馆(京豆)</title>
-		<url2>https://h5.m.jd.com/pb/015261870/3X9hjuZtNuRnYJ9TF5ScqZ5n9ZME/index.html</url2>
-		<title2>京东新百货</title2>
+		<url>https://jdbeantask-pro.pf.jd.com/</url>
+		<title>[京东]-赚京豆 轻松赚豆(京豆)</title>
+		<url2>https://h5platform.jd.com/swm-static/exchange-equity/index.html#/pages/home/index</url2>
+		<title2>京豆商城</title2>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://vipgrowth.m.jd.com/?from=content#/home</url>
+		<title>[京东]-我的京享值(京豆)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://huiyuan.m.jd.com/</url>
+		<title>[京东]-&lt;B&gt;会员精选任务&lt;/B&gt;</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -74,20 +84,6 @@
 		<title>[京东]-幸运大转盘(京豆)</title>
 		<url2>https://m.jd.com/</url2>
 		<title2>京东</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://jdbeantask-pro.pf.jd.com/</url>
-		<title>[京东]-赚京豆 轻松赚豆(京豆)</title>
-		<url2>https://h5platform.jd.com/swm-static/exchange-equity/index.html#/pages/home/index</url2>
-		<title2>京豆商城</title2>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://vipgrowth.m.jd.com/?from=content#/home</url>
-		<title>[京东]-我的京享值(京豆)</title>
-		<url2>https://huiyuan.m.jd.com/</url2>
-		<title2>&lt;B&gt;会员精选任务&lt;/B&gt;</title2>
 	</data>
 	<data>
 		<index>001</index>
