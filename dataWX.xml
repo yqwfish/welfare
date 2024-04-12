@@ -124,9 +124,11 @@
 		<title2>保险频道</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/eEcYM32eezJB7YX4SBihziJCiGV/index.html</url>
-		<title>[京东金融]-签到领积分,任务(换话费)</title>
+		<index>002</index>
+		<url>https://mypoint.jd.com/predeem/#/rechange</url>
+		<title>[京东金融]-签到领充值金,任务(兑话费)</title>
+		<url2>https://mypoint.jd.com/predeem/#/</url2>
+		<title2>备用</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -142,11 +144,6 @@
 		<index>001</index>
 		<url>https://show.jd.com/m/dPM1/</url>
 		<title>[京东金融]-15理财日 答题赢现金得学分(累计学分领京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://eco.jr.jd.com/wxmp-fission/task</url>
-		<title>[京东金融]-签到每日领好礼 30天签到礼包(现金红包、积分等)</title>
 	</data>
 	<data>
 		<index>001</index>
