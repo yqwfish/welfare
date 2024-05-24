@@ -54,7 +54,7 @@
 	<data>
 		<index>001</index>
 		<url>https://jingcai-h5.jd.com/index.html#/myIntegral?source=kdcjbabel</url>
-		<title>[京东]-快递签到 积分抵运费(100积分换京豆)</title>
+		<title>[京东]-快递签到 积分抵运费(兑换快递券)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -67,11 +67,6 @@
 		<index>001</index>
 		<url>https://huiyuan.m.jd.com/</url>
 		<title>[京东]-&lt;B&gt;会员精选任务&lt;/B&gt;</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://vipgrowth.m.jd.com/?from=content#/home</url>
-		<title>[京东]-我的京享值(京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
@@ -100,11 +95,6 @@
 		<title2>备用</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://spa.jd.com/home</url>
-		<title>[京东]-摇京豆,浏览活动(京豆,券等)</title>
-	</data>
-	<data>
 		<index>002</index>
 		<url>https://h5.m.jd.com/babelDiy/Zeus/2wuqXrZrhygTQzYA7VufBEpj4amH/index.html</url>
 		<title>[京东]-&lt;B&gt;宠汪汪喂狗粮(换京豆)&lt;/B&gt;</title>
@@ -113,8 +103,8 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://u.jr.jd.com/uc-fe-wxgrowing/cloudpig/index/</url>
-		<title>[京东金融]-养猪猪 抽奖(京豆)</title>
+		<url>https://pro.m.jd.com/mall/active/3nh7HzSjYemGqAHSbktTrf8rrH8M/index.html</url>
+		<title>[京东]-超市 每日签到得好礼(汪贝兑换礼物券)</title>
 	</data>
 	<data>
 		<index>002</index>
