@@ -59,13 +59,20 @@
 	</data>
 	<data>
 		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/3BbAVGQPDd6vTyHYjmAutXrKAos6/index.html</url>
+		<title>[京东]-母婴馆签到(京豆)</title>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://prodev.m.jd.com/mall/active/NJ1kd1PJWhwvhtim73VPsD1HwY3/index.html</url>
 		<title>[京东]-个护签到(京豆)</title>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://yaom.jd.com/jdhhome/pages/welfare/index?type=welfare</url>
-		<title>[京东]-买药领福利 签到得健康能量(兑换1元包邮券)</title>
+		<title>[京东]-看病买药 签到得健康能量(兑换1元包邮券)</title>
+		<url2>https://yaom.jd.com/jdhhome/</url2>
+		<title2>看病买药</title2>
 	</data>
 	<data>
 		<index>002</index>
