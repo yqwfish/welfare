@@ -24,13 +24,6 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/3S28janPLYmtFxypu37AYAGgivfp/index.html</url>
-		<title>[京东]-拍拍二手签到有礼(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/LHGZv1DrGkva1jNpUkKFuNFN6oo/index.html</url2>
-		<title2>上京东 搜拍拍</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/4RBT3H9jmgYg1k2kBnHF8NAHm7m8/index.html</url>
 		<title>[京东]-服饰美妆签到领(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/jgwurvXVswT7VFuX4S5DG2aaK1T/index.html</url2>
@@ -73,13 +66,6 @@
 		<index>001</index>
 		<url>https://h5.m.jd.com/babelDiy/Zeus/CvMVbdFGXPiWFFPCc934RiJfMPu/index.html</url>
 		<title>[京东]-&lt;B&gt;东东农场 天天红包(京豆,券等)&lt;/B&gt;</title>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://st.jingxi.com/sns/202106/29/signinhb_new/index.html</url>
-		<title>[京喜]-签到领红包(红包)</title>
-		<url2>https://st.jingxi.com/index.shtml</url2>
-		<title2>京喜</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -132,8 +118,10 @@
 		<title>[京东金融]-15理财日 答题赢现金得学分(累计学分领京豆)</title>
 	</data>
 	<data>
-		<index>001</index>
+		<index>002</index>
 		<url>https://bean.jd.com/myJingBean/list#earnBean</url>
 		<title>[京东]-PC我的京豆</title>
+		<url2>https://st.jingxi.com/index.shtml</url2>
+		<title2>京喜</title2>
 	</data>
 </DATAS>
