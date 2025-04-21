@@ -45,27 +45,15 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html</url>
-		<title>[京东]-3C每日签到(兑京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html#/index</url2>
-		<title2>手机数码</title2>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/3fcyrvLZALNPWCEDRvaZJVrzek8v/index.html</url>
 		<title>[京东]-互动游戏打卡领京豆签到(京豆)</title>
+		<url2>https://m.jd.com/</url2>
+		<title2>京东</title2>
 	</data>
 	<data>
 		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/sSFiqWRdzGTU9ByynawT1k5mix4/index.html</url>
 		<title>[京东]-滋补营养 &lt;B&gt;做任务赚奖励&lt;/B&gt;(签到领京豆)</title>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://h5.m.jd.com/babelDiy/Zeus/CvMVbdFGXPiWFFPCc934RiJfMPu/index.html</url>
-		<title>[京东]-&lt;B&gt;东东农场 天天红包(京豆,券等)&lt;/B&gt;</title>
-		<url2>https://m.jd.com/</url2>
-		<title2>京东</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -80,6 +68,13 @@
 		<title>[京东]-&lt;B&gt;宠汪汪喂狗粮(换京豆)&lt;/B&gt;</title>
 		<url2>https://jdjoy.jd.com/pet/index</url2>
 		<title2>备用</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html</url>
+		<title>[京东]-&lt;B&gt;3C每日签到(每晚8点抢兑京豆)&lt;/B&gt;</title>
+		<url2>https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html#/index</url2>
+		<title2>手机数码</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -98,7 +93,7 @@
 	<data>
 		<index>003</index>
 		<url>https://ipay.jd.com/m/bankicon/</url>
-		<title>[京东]-&lt;B&gt;我的银行卡&lt;/B&gt;</title>
+		<title>[京东]-银行卡福利专区</title>
 		<url2>https://pb.jd.com/2023/check-cash/#/home</url2>
 		<title2>签到返现</title2>
 		<url3>https://web-pay.jdpay.com/m-wallet/balance/home</url3>
