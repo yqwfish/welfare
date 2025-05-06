@@ -92,10 +92,10 @@
 	</data>
 	<data>
 		<index>003</index>
-		<url>https://ipay.jd.com/m/bankicon/</url>
-		<title>[京东]-银行卡福利专区</title>
-		<url2>https://pb.jd.com/2023/check-cash/#/home</url2>
-		<title2>签到返现</title2>
+		<url>https://pb.jd.com/2023/check-cash/#/home</url>
+		<title>[京东]-签到返现</title>
+		<url2>https://ipay.jd.com/m/bankicon/</url2>
+		<title2>银行卡福利专区</title2>
 		<url3>https://web-pay.jdpay.com/m-wallet/balance/home</url3>
 		<title3>我的余额</title3>
 	</data>
