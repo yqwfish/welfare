@@ -17,13 +17,6 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/4RBT3H9jmgYg1k2kBnHF8NAHm7m8/index.html</url>
-		<title>[京东]-服饰美妆签到领(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/jgwurvXVswT7VFuX4S5DG2aaK1T/index.html</url2>
-		<title2>服饰美妆</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/gFkdsmZNGWwvzFTRT76janC1ThJ/index.html</url>
 		<title>[京东]-大牌奥莱签到领(京豆)</title>
 		<url2>https://pro.m.jd.com/mall/active/2aRK8YxJGhgc1gEnXLJPhT6KodXd/index.html</url2>
@@ -49,6 +42,13 @@
 		<title>[京东]-互动游戏打卡领京豆签到(京豆)</title>
 		<url2>https://m.jd.com/</url2>
 		<title2>京东</title2>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://jdhm.jd.com/jdhhome/pages/welfare/index</url>
+		<title>[京东]-看病买药 签到得健康能量(兑换1元包邮券)</title>
+		<url2>https://jdhm.jd.com/jdhhome/</url2>
+		<title2>看病买药</title2>
 	</data>
 	<data>
 		<index>001</index>
