@@ -44,11 +44,9 @@
 		<title2>看病买药</title2>
 	</data>
 	<data>
-		<index>002</index>
+		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/3fcyrvLZALNPWCEDRvaZJVrzek8v/index.html</url>
 		<title>[京东]-互动游戏打卡领京豆签到(京豆)</title>
-		<url2>https://m.jd.com/</url2>
-		<title2>京东</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -112,10 +110,12 @@
 		<title>[京东金融]-15理财日 答题赢现金得学分(累计学分领京豆)</title>
 	</data>
 	<data>
-		<index>002</index>
+		<index>003</index>
 		<url>https://bean.jd.com/myJingBean/list#earnBean</url>
 		<title>[京东]-PC我的京豆</title>
-		<url2>https://st.jingxi.com/index.shtml</url2>
-		<title2>京喜</title2>
+		<url2>https://m.jd.com/</url2>
+		<title2>京东商城</title2>
+		<url3>https://st.jingxi.com/index.shtml</url3>
+		<title3>京喜</title3>
 	</data>
 </DATAS>
