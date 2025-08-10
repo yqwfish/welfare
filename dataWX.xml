@@ -30,62 +30,53 @@
 		<title2>京东护士到家</title2>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://pro.m.jd.com/mall/active/3fcyrvLZALNPWCEDRvaZJVrzek8v/index.html</url>
+		<title>[京东]-互动游戏 打卡领(京豆)</title>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://jdhm.jd.com/jdhhome/pages/welfare/index</url>
-		<title>[京东]-看病买药 签到得健康能量(兑换1元包邮券)</title>
+		<title>[京东]-看病买药 连续签到(京豆)</title>
 		<url2>https://jdhm.jd.com/jdhhome/</url2>
 		<title2>看病买药</title2>
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/3fcyrvLZALNPWCEDRvaZJVrzek8v/index.html</url>
-		<title>[京东]-互动游戏打卡领京豆签到(京豆)</title>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/sSFiqWRdzGTU9ByynawT1k5mix4/index.html</url>
-		<title>[京东]-滋补营养 &lt;B&gt;做任务赚奖励&lt;/B&gt;(签到领京豆)</title>
+		<title>[京东]-家庭常备药 &lt;B&gt;做任务赚奖励&lt;/B&gt;(签到领京豆)</title>
 	</data>
 	<data>
 		<index>002</index>
 		<url>https://h5.m.jd.com/babelDiy/Zeus/2wuqXrZrhygTQzYA7VufBEpj4amH/index.html</url>
-		<title>[京东]-&lt;B&gt;宠汪汪喂狗粮(换京豆)&lt;/B&gt;</title>
+		<title>[京东]-&lt;B&gt;宠汪汪 喂养(0点抢京豆)&lt;/B&gt;</title>
 		<url2>https://jdjoy.jd.com/pet/index</url2>
 		<title2>备用</title2>
 	</data>
 	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html</url>
-		<title>[京东]-&lt;B&gt;3C每日签到(每晚8点抢兑京豆)&lt;/B&gt;</title>
+		<title>[京东]-&lt;B&gt;手机数码馆-每日签到(20点抢京豆)&lt;/B&gt;</title>
 		<url2>https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html#/index</url2>
 		<title2>手机数码</title2>
 	</data>
 	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/3mknCJXM9fpJGueqd7BDdknZgFpt/index.html</url>
-		<title>[京东]-&lt;B&gt;家电家居赚金币(每晚8点抢兑京豆)&lt;/B&gt;</title>
+		<title>[京东]-&lt;B&gt;家电家居 金币抽奖(20点抢京豆)&lt;/B&gt;</title>
 		<url2>https://pro.m.jd.com/mall/active/2H8G6a7JecjqHH3t1ZWSoJjPtziP/index.html</url2>
 		<title2>家电家居</title2>
 	</data>	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/7qeWGARG9cCNPMEhYczSd2kXVsT/index.html</url>
-		<title>[京东]-&lt;B&gt;超级抓抓机(每晚8点抢兑京豆)&lt;/B&gt;</title>
+		<title>[京东]-&lt;B&gt;灵感屋(20点抢京豆)&lt;/B&gt;</title>
 		<url2>https://pro.m.jd.com/mall/active/FxaS5JGmuJH65DB4HxF7rCRRewb/index.html</url2>
 		<title2>挑好物逛京东</title2>
 	</data>
 	<data>
-		<index>003</index>
-		<url>https://pb.jd.com/2023/check-cash/#/home</url>
-		<title>[京东]-签到返现(领现金)</title>
-		<url2>https://ipay.jd.com/m/bankicon/</url2>
-		<title2>银行卡福利专区</title2>
-		<url3>https://web-pay.jdpay.com/m-wallet/balance/home</url3>
-		<title3>我的余额</title3>
-	</data>
-	<data>
 		<index>002</index>
 		<url>https://mypoint.jd.com/predeem/#/rechange</url>
-		<title>[京东金融]-签到领充值金,任务(兑话费)</title>
+		<title>[京东金融]-赚话费 签到领充值金(兑话费)</title>
 		<url2>https://pro.m.jd.com/mall/active/eEcYM32eezJB7YX4SBihziJCiGV/index.html</url2>
 		<title2>备用</title2>
 	</data>
