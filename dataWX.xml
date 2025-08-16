@@ -36,15 +36,17 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://jdhm.jd.com/jdhhome/pages/welfare/index</url>
-		<title>[京东]-看病买药 连续签到(京豆)</title>
-		<url2>https://jdhm.jd.com/jdhhome/</url2>
-		<title2>看病买药</title2>
+		<url>https://pro.m.jd.com/mall/active/AZPuLq2CMt4zRj7cE8Uno31nvYz/index.html</url>
+		<title>[京东]-家庭常备药 每日签到(领京豆)</title>
+		<url2>https://pro.m.jd.com/mall/active/sSFiqWRdzGTU9ByynawT1k5mix4/index.html</url2>
+		<title2>[京东]-家庭常备药 &lt;B&gt;做任务赚奖励&lt;/B&gt;</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://pro.m.jd.com/mall/active/sSFiqWRdzGTU9ByynawT1k5mix4/index.html</url>
-		<title>[京东]-家庭常备药 &lt;B&gt;做任务赚奖励&lt;/B&gt;(签到领京豆)</title>
+		<index>002</index>
+		<url>https://jdhm.jd.com/jdhhome/pages/welfare/index</url>
+		<title>[京东]-看病买药 福利中心(签到领京豆)</title>
+		<url2>https://jdhm.jd.com/jdhhome/</url2>
+		<title2>看病买药</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -55,10 +57,10 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html</url>
-		<title>[京东]-&lt;B&gt;手机数码馆-每日签到(20点抢京豆)&lt;/B&gt;</title>
-		<url2>https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html#/index</url2>
-		<title2>手机数码</title2>
+		<url>https://pro.m.jd.com/mall/active/7qeWGARG9cCNPMEhYczSd2kXVsT/index.html</url>
+		<title>[京东]-&lt;B&gt;灵感屋(20点抢京豆)&lt;/B&gt;</title>
+		<url2>https://pro.m.jd.com/mall/active/FxaS5JGmuJH65DB4HxF7rCRRewb/index.html</url2>
+		<title2>挑好物逛京东</title2>
 	</data>
 	<data>
 		<index>002</index>
@@ -66,12 +68,13 @@
 		<title>[京东]-&lt;B&gt;家电家居 金币抽奖(20点抢京豆)&lt;/B&gt;</title>
 		<url2>https://pro.m.jd.com/mall/active/2H8G6a7JecjqHH3t1ZWSoJjPtziP/index.html</url2>
 		<title2>家电家居</title2>
-	</data>	<data>
+	</data>	
+	<data>
 		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/7qeWGARG9cCNPMEhYczSd2kXVsT/index.html</url>
-		<title>[京东]-&lt;B&gt;灵感屋(20点抢京豆)&lt;/B&gt;</title>
-		<url2>https://pro.m.jd.com/mall/active/FxaS5JGmuJH65DB4HxF7rCRRewb/index.html</url2>
-		<title2>挑好物逛京东</title2>
+		<url>https://pro.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html</url>
+		<title>[京东]-&lt;B&gt;手机数码馆-每日签到(20点抢京豆)&lt;/B&gt;</title>
+		<url2>https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html#/index</url2>
+		<title2>手机数码</title2>
 	</data>
 	<data>
 		<index>002</index>
