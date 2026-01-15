@@ -23,37 +23,13 @@
 		<title2>浏览找现金 点击领奖励(&lt;B&gt;可提现&lt;/B&gt;)</title2>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://render.alipay.com/p/c/lehua/money.html</url>
-		<title>[攒现金]-到店付款攒现金(&lt;B&gt;攒齐提现&lt;/B&gt;)</title>
-		<url2>https://render.alipay.com/p/c/180020570000010340/index.html</url2>
-		<title2>[招行储蓄卡攒红包]-招行储蓄卡支付攒红包</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/c/180020570000034442/index.html?isv_tag=alipay&amp;sign=WK9SVDaC0Ewnff9o%2FX6nNzRIbpIVJKZzbq3YDgRin1VehGVdTblJOtYNIQcYG6Y0LP%2FkjxiR4X_PeE5urTAETz3M0AwQYxesnsybtLdiwEjDMV6o_X5W1_zmtZEnzraBTH5tAWlLBwz9eQa249Xcbk_NRJIH6UPQWjIHhug62AiMgx69frO0T3W2qrYj7aGlis3haRth2ZURymV3Oc2WHWXlpIxDHk7ZHhTZiCdd3O7meljInBF8QjGbu9zBpnX%2Fy7f9rY%2FmALewDAFa1HQNJpl6Rl%2F6fwBCJvwA2HH1DEtkwLrY4d7cihvCqynRPw1jIPF0CT2We6askpZVOR8KUQ%3D%3D&amp;signMode=before&amp;shareId=2088231137485752&amp;chInfo=ch_share__chsub_qrcode&amp;activityType=new</url>
-		<title>[绿色出行坐公交]-领取公交乘车优惠券</title>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://render.alipay.com/p/c/180020570000034590/index.html?isv_tag=alipay&amp;sign=suhN_PHWrMHIltIVKe5_nhc25ZJu2WtvMTj62r6EKnpjLVkgDBIhB8Optg26ydsizygwjxkpHzm2KdPMEsYFZKWFymCP%2Fl9yS0tddoslXYWxWrNc5Jvdz_TCo4PNun1vl2Dn72FHNiCU934IKh3GjmUiD97Bmmu3BML9g41Md3NUcD4BmvfZweLhkRXvW30TTeT0FKR4QTOk0WbyZ0TgdhgAEi8shkS3Eh5we2UbMbg3AELlPJnRQ61mG1N4uYBHI1G8BX5OClBvPEV7IzumH7YjiMlWI%2F_hu%2FuDa2%2F77mo8ANsQmskEvo8hYgO66uVqV9_OtvIy3F7Wu7uQktDI0w%3D%3D&amp;signMode=before&amp;shareId=2088231137485752&amp;chInfo=ch_share__chsub_qrcode&amp;activityType=new</url>
-		<title>[绿色出行坐地铁]-领取地铁乘车优惠券</title>
-		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000067%26url%3Dhttps%253A%252F%252Frender.alipay.com%252Fp%252Fc%252F180020570000034653%252Fjumping.html%253Fisv_tag%253Dalipay%2526sign%253DZpD79ZR8Q7WnOnDKf_uSWrZ6q7qtqGKDf9fAoquizsx4lGhRpMY1aOZ5pICw5AsQcj4T0yVf27BWfefrE2s4lavUsbyOuEHy7rzaozwRlmTAcS3Fm5RfV_Xjj3CofDT%25252Fv2LFP9JJYme8mf4SUIPJ7e5viZypQ%25252FPl6KYmkJ3DG_heNgoCgKMnRU12JYFfyVpSVLy9SEVJCs4khf0QmdNy3CY1p1sCrbNfR4y3l9H%25252FuQiFeiZ4MePc5ywhuDeu9vD3BI11J%25252FFkLDKRFHtSm28MZGP4I_6FDhhtViQ7swjyuuVC1xcORJYsnmFqlOkjBAeAvnyBWsIt2a9PUlB0dPvJGg%25253D%25253D%2526signMode%253Dbefore%2526shareId%253D2088032923719253</url2>
-		<title2>邀好友乘地铁</title2>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/c/18cc2wd998ww?__webview_options__=bizScenario%3DALIPAY_HOME_ROTATION.1202105483504.2202106947898.3202105577104&amp;chinfo=ALIPAY_HOME_ROTATION&amp;trace=true&amp;scm=1.cdp._.3202105577104._._._</url>
-		<title>[公交地铁出行券]-周周来领券 出行更省钱(每周领券一次)</title>
-	</data>
-	<data>
 		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2017122701256110%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
 		<title>[支付宝会员]-生活号 领积分(积分兑红包)</title>
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://render.alipay.com/p/h5/life_public/www/index.html?publicId=2016041101287271&amp;msgId=201604110128727197e7467c-5651-4297-be85-c5ddf9556134</url>
+		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2018112062226732%26page%3DsubPackages%252FaliWeblink%252Findex%253Flink%253Dhttps%25253A%25252F%25252Fwx.10086.cn%25252Fqwhdhub%25252Fqwhdmark%25252F1021122301%25253Fys%25253DJHQD9999999999%252526touch_id%25253D15-02-10009-7353-01%252526redirectSource%25253DSSO_YQS%252526isReload%25253D1%252526webView%25253Dtrue%26enbsv%3D0.2.2601131522.50%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26shareTimestamp%3D1768487074053%26apshareid%3D46cc0942-fd12-471d-bb7a-524e6557e235%26shareBizType%3DH5App_XCX</url>
 		<title>[中国移动10086]累计签到有礼，每日领话费金(兑话费券)</title>
 		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2016041101287271%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3D103aaedc-3024-4cb4-b475-3b3d3dbb554b</url2>
 		<title2>生活号中国移动10086</title2>
@@ -64,13 +40,11 @@
 		<title>[玩赚支付宝]-每天签到领现金(每30天周期清零 满5元提现)</title>
 	</data>
 	<data>
-		<index>003</index>
+		<index>002</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3Dpages%252Findex%252Findex%253FshareUid%253D2088032923719253</url>
 		<title>[集集星球]-小程序签到,广告任务(集分宝)</title>
-		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3DpackageA%252FpagesA%252FtaskStars%252FtaskStars</url2>
-		<title2>广告任务集星星(3星次日晚8点分集分宝)</title2>
-		<url3>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3Dpages%252Fsteps_modular%252FstepsIndex%252FstepsIndex</url3>
-		<title3>步数换金币,广告任务(1000金币提现换集分宝)</title3>
+		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019101668433279%26page%3Dpages%252Fsteps_modular%252FstepsIndex%252FstepsIndex</url2>
+		<title2>步数换金币,广告任务(1000金币提现换集分宝)</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -84,20 +58,8 @@
 	</data>
 	<data>
 		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003172682207%26page%3Dpages%252Findex%252Findex%253FchInfo%253Dself_share_app%26enbsv%3D0.2.2311092229.15%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26shareTimestamp%3D1699887178503%26apshareid%3D14343df7-bf23-4541-8dbc-f752ba36882c%26shareBizType%3DH5App_XCX</url>
-		<title>[读书听书]-小程序赚金币 福利任务(兑&lt;B&gt;红包&lt;/B&gt;)</title>
-	</data>
-	<data>
-		<index>001</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003125685383%26url%3Dhttps%253A%252F%252Frender.alipay.com%252Fp%252Fyuyan%252F180020010001206617%252Findex.html%253FcaprMode%253Dsync%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3D8d23c1ef-af26-446a-b01e-e5dc37984b9d%26shareBizType%3DztokenV0_TozUQABM</url>
 		<title>[游戏中心]-小程序去赚豆做任务(&lt;B&gt;兑红包&lt;/B&gt;)</title>
-	</data>
-	<data>
-		<index>002</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2019112669453030%26page%3Dpages%252Findex%252Findex</url>
-		<title>[支付宝消费金]-小程序签到,做任务赚消费金(兑&lt;B&gt;黄金票、通用支付红包&lt;/B&gt;等)</title>
-		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2021001134673994%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url2>
-		<title2>生活号天天攒金币</title2>
 	</data>
 	<data>
 		<index>001</index>
@@ -110,30 +72,11 @@
 		<title>[多懂一点]-小程序打卡领学分(&lt;B&gt;支付红包&lt;/B&gt;等)</title>
 	</data>
 	<data>
-		<index>004</index>
+		<index>002</index>
 		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000042%26publicBizType%3DLIFE_APP%26publicId%3D2015111300788246%26sourceId%3DsettingShare%26chInfo%3Dch_share__chsub_CopyLink</url>
-		<title>[蚂蚁财富]-生活号 收益周周乐,黄金票,大盘晴雨表(&lt;B&gt;红包券&lt;/B&gt;)</title>
-		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20001003%26appClearTop%3Dfalse%26startMultApp%3DYES%26searchType%3Dunified%26actionSrc%3Dshare%26v2%3Dtrue%26frontCode%3DglobalSearchFront%26frontFeed%3Dtrue%26sugCode%3DglobalSearchSug%26sugFeed%3Dtrue%26resultCode%3DglobalSearchScene%26recordHistory%3Dtrue%26homeType%3Dglobal_home_birdnest%26keyword%3D%25E6%2594%25B6%25E7%259B%258A%25E5%25A4%25A9%25E5%25A4%25A9%25E4%25B9%2590%26queryWord%3D%25E6%2594%25B6%25E7%259B%258A%25E5%25A4%25A9%25E5%25A4%25A9%25E4%25B9%2590%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26chInfo%3Dch_share__chsub_CopyLink%26shareTimestamp%3D1739363632010%26apshareid%3D37dc318d-800f-4a35-a0f6-420c62a21ba7%26shareBizType%3DztokenV0_mZHiEwfE</url2>
-		<title2>搜索[收益天天乐]</title2>
-		<url3>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20001003%26appClearTop%3Dfalse%26startMultApp%3DYES%26searchType%3Dunified%26actionSrc%3Dshare%26v2%3Dtrue%26frontCode%3DglobalSearchFront%26frontFeed%3Dtrue%26sugCode%3DglobalSearchSug%26sugFeed%3Dtrue%26resultCode%3DglobalSearchScene%26recordHistory%3Dtrue%26homeType%3Dglobal_home_birdnest%26keyword%3D%25E9%25BB%2584%25E9%2587%2591%25E7%25A5%25A8%26queryWord%3D%25E9%25BB%2584%25E9%2587%2591%25E7%25A5%25A8%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3Db4abdf52-fa7c-48fe-923f-2824b487fb8d%26shareBizType%3DztokenV0_mZHiEwfE</url3>
-		<title3>搜索[黄金票]</title3>
-		<url4>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20001003%26appClearTop%3Dfalse%26startMultApp%3DYES%26searchType%3Dunified%26actionSrc%3Dshare%26v2%3Dtrue%26frontCode%3DglobalSearchFront%26frontFeed%3Dtrue%26sugCode%3DglobalSearchSug%26sugFeed%3Dtrue%26resultCode%3DglobalSearchScene%26recordHistory%3Dtrue%26homeType%3Dglobal_home_birdnest%26keyword%3D%25E5%25A4%25A7%25E7%259B%2598%25E6%2599%25B4%25E9%259B%25A8%25E8%25A1%25A8%26queryWord%3D%25E5%25A4%25A7%25E7%259B%2598%25E6%2599%25B4%25E9%259B%25A8%25E8%25A1%25A8%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3D2b827411-d30c-42a6-b50a-88c0ecb22dd0%26shareBizType%3DztokenV0_mZHiEwfE</url4>
-		<title4>搜索[大盘晴雨表]</title4>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D68687728%26url%3Dhttps%253A%252F%252F68687728.h5app.alipay.com%252Fwww%252Findex.html%26enbsv%3D0.1.2208161016.13%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3D95c1ae84-4327-4f7f-86eb-24aaa1807df4%26shareBizType%3DH5App_XCX</url>
-		<title>[出行优惠]-小程序公交 地铁 乘车券周周领(每周领券一次)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D68687952</url>
-		<title>[搜723619625]-小程序支付宝发红包你赚赏金(实体店红包,余额宝红包,花呗红包等)</title>
-	</data>
-	<data>
-		<index>001</index>
-		<url>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003126681357%26page%3Dpages%252Finvite%252Findex%26enbsv%3D0.2.2207122054.51%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3D92e38d7d-f23e-4cf4-8a65-7c99e0c28c52%26shareBizType%3DH5App_XCX</url>
-		<title>[生活缴费福利邦]-小程序喊朋友扫码缴水燃费(扫码享随机生活缴费红包)</title>
+		<title>[蚂蚁财富]-生活号 有福利》黄金票,周周领福利签到</title>
+		<url2>https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20001003%26appClearTop%3Dfalse%26startMultApp%3DYES%26searchType%3Dunified%26actionSrc%3Dshare%26v2%3Dtrue%26frontCode%3DglobalSearchFront%26frontFeed%3Dtrue%26sugCode%3DglobalSearchSug%26sugFeed%3Dtrue%26resultCode%3DglobalSearchScene%26recordHistory%3Dtrue%26homeType%3Dglobal_home_birdnest%26keyword%3D%25E9%25BB%2584%25E9%2587%2591%25E7%25A5%25A8%26queryWord%3D%25E9%25BB%2584%25E9%2587%2591%25E7%25A5%25A8%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26chInfo%3Dch_share__chsub_CopyLink%26apshareid%3Db4abdf52-fa7c-48fe-923f-2824b487fb8d%26shareBizType%3DztokenV0_mZHiEwfE</url2>
+		<title2>搜索[黄金票]</title2>
 	</data>
 	<data>
 		<index>001</index>
