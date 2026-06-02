@@ -16,13 +16,6 @@
 		<title2>优惠集锦</title2>
 	</data>
 	<data>
-		<index>002</index>
-		<url>https://laputa.jd.com/nurse1/pages/index/index</url>
-		<title>[京东]-护士到家 每日签到(京豆)</title>
-		<url2>https://pro.m.jd.com/mall/active/5RHCkauZkojcxkmpWiwY1BJ83Ew/index.html</url2>
-		<title2>京东护士到家</title2>
-	</data>
-	<data>
 		<index>001</index>
 		<url>https://pro.m.jd.com/mall/active/3fcyrvLZALNPWCEDRvaZJVrzek8v/index.html</url>
 		<title>[京东]-互动游戏 打卡领(京豆)</title>
@@ -70,13 +63,6 @@
 	</data>
 	<data>
 		<index>002</index>
-		<url>https://h5.m.jd.com/babelDiy/Zeus/2wuqXrZrhygTQzYA7VufBEpj4amH/index.html</url>
-		<title>[京东]-&lt;B&gt;宠汪汪 喂养(0点抢京豆)&lt;/B&gt;</title>
-		<url2>https://jdjoy.jd.com/pet/index</url2>
-		<title2>备用</title2>
-	</data>
-	<data>
-		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/4SitPQagKibGQK1HX7J83sroHj5x/index.html</url>
 		<title>[京东]-&lt;B&gt;羊毛小屋(20点抢京豆)&lt;/B&gt;</title>
 		<url2>https://pro.m.jd.com/mall/active/FxaS5JGmuJH65DB4HxF7rCRRewb/index.html</url2>
@@ -112,6 +98,13 @@
 		<index>001</index>
 		<url>https://show.jd.com/m/dPM1/</url>
 		<title>[京东金融]-15理财日 答题赢现金得学分(累计学分领京豆)</title>
+	</data>
+	<data>
+		<index>002</index>
+		<url>https://h5.m.jd.com/babelDiy/Zeus/2wuqXrZrhygTQzYA7VufBEpj4amH/index.html</url>
+		<title>[京东]-&lt;B&gt;宠汪汪 喂养(0点抢京豆)&lt;/B&gt;</title>
+		<url2>https://jdjoy.jd.com/pet/index</url2>
+		<title2>备用</title2>
 	</data>
 	<data>
 		<index>003</index>
