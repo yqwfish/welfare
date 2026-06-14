@@ -94,6 +94,11 @@
 	</data>
 	<data>
 		<index>001</index>
+		<url>https://web-pay.jdpay.com/m-wallet/balance/markets</url>
+		<title>[京东]-活动任务(余额)</title>
+	</data>
+	<data>
+		<index>001</index>
 		<url>https://ipay.jd.com/pages/bbf/index</url>
 		<title>[京东]-笔笔返(余额)</title>
 	</data>
