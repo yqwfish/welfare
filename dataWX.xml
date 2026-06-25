@@ -83,9 +83,11 @@
 		<title2>手机数码</title2>
 	</data>
 	<data>
-		<index>001</index>
-		<url>https://web-pay.jdpay.com/m-wallet/balance/markets</url>
-		<title>[京东]-活动任务(余额)</title>
+		<index>002</index>
+		<url>https://pro.m.jd.com/mall/active/3i11dVqMyKjD3RdMkj5DsLy4aCur/index.html?hasjingBean=true</url>
+		<title>[京东]-天天领权益(京豆)&lt;/B&gt;</title>
+		<url2>https://pro.m.jd.com/mall/active/3i11dVqMyKjD3RdMkj5DsLy4aCur/index.html</url2>
+		<title2>京东保</title2>
 	</data>
 	<data>
 		<index>001</index>
