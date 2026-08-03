@@ -48,6 +48,16 @@
 		<title>[京东]-服务 每日领(京豆)</title>
 	</data>
 	<data>
+		<index>001</index>
+		<url>https://ipay.jd.com/m/bankicon/</url>
+		<title>[京东]-银行卡 每日领(京豆)</title>
+	</data>
+	<data>
+		<index>001</index>
+		<url>https://ins-market-h5.jd.com/insurance/insmarket/world-cup?taskId=286001</url>
+		<title>[京东]-京东保 天天抽奖(京豆)</title>
+	</data>
+	<data>
 		<index>002</index>
 		<url>https://pro.m.jd.com/mall/active/3dnvQFJ8j68mUEy8wjsFU7VSfZTV/index.html</url>
 		<title>[京东]-车主福利 签到(领京豆)</title>
@@ -74,13 +84,6 @@
 		<title>[京东]-&lt;B&gt;家电家居 金币抽奖(20点抢京豆)&lt;/B&gt;</title>
 		<url2>https://pro.m.jd.com/mall/active/2H8G6a7JecjqHH3t1ZWSoJjPtziP/index.html</url2>
 		<title2>家电家居</title2>
-	</data>	
-	<data>
-		<index>002</index>
-		<url>https://pro.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html</url>
-		<title>[京东]-&lt;B&gt;手机数码馆-每日签到(20点抢京豆)&lt;/B&gt;</title>
-		<url2>https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html#/index</url2>
-		<title2>手机数码</title2>
 	</data>
 	<data>
 		<index>002</index>
