@@ -62,9 +62,13 @@
 		<title2>家电家居</title2>
 	</data>
 	<data>
-		<index>001</index>
+		<index>003</index>
 		<url>https://ipay.jd.com/pages/bbf/index</url>
 		<title>[京东]-笔笔返(余额)</title>
+		<url2>https://m.jd.com/</url2>
+		<title2>京东商城</title2>
+		<url3>https://st.jingxi.com/index.shtml</url3>
+		<title3>京喜</title3>
 	</data>
 	<data>
 		<index>002</index>
@@ -80,11 +84,11 @@
 	</data>
 	<data>
 		<index>003</index>
-		<url>https://bean.jd.com/myJingBean/list#earnBean</url>
-		<title>[京东]-PC我的京豆</title>
-		<url2>https://m.jd.com/</url2>
-		<title2>京东商城</title2>
-		<url3>https://st.jingxi.com/index.shtml</url3>
-		<title3>京喜</title3>
+		<url>https://home.jd.com/</url>
+		<title>[京东PC]-我的京东</title>
+		<url2>https://interact.jd.com/</url2>
+		<title2>互动中心</title2>
+		<url3>https://bean.jd.com/myJingBean/list</url3>
+		<title3>备份</title3>
 	</data>
 </DATAS>
